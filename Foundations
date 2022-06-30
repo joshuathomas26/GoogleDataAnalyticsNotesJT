@@ -1,0 +1,668 @@
+Week 1
+
+Data: Collection of Facts (numbers, pictures, words, measurements, etc)
+Data Analysis: Collection, transformation, and organization of data to draw conclusions, predictions, and decision-making
+Ex: FitnessTrackers, using Phone, post on social media, GPS, etc.
+
+The six steps of the data analysis process that you have been learning in this program are: ask, prepare, process, analyze, share, and act. These six steps apply to any data analysis.
+
+To put it simply, an ecosystem is a group of elements that interact with one another. Data lives in its own ecosystem
+Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them
+
+Data can also be found in something called the cloud. The cloud is a place to keep data online, rather than on a computer hard drive. So instead of storing data somewhere inside your organization's network, that data is accessed over the internet. So the cloud is just a term we use to describe the virtual location. The cloud plays a big part in the data ecosystem, and as a data analyst, it's your job to harness the power of that data ecosystem, find the right information, and provide the team with analysis that helps them make smart decisions.
+
+
+Data science is defined as creating new ways of modeling and understanding the unknown by using raw data. Here's a good way to think about it. Data scientists create new questions using data, while analysts find answers to existing questions by creating insights from data sources.
+
+The data analysis life cycle—the process of going from data to decision. Data goes through several phases as it gets created, consumed, tested, processed, and reused.
+
+1. Analysis Projects Life Cycle:
+Identifying the problem
+
+Designing data requirements
+
+Pre-processing data
+
+Performing data analysis
+
+Visualizing data
+
+
+2. Big Data Life Cycle:
+Business case evaluation
+
+Data identification
+
+Data acquisition and filtering
+
+Data extraction
+
+Data validation and cleaning
+
+Data aggregation and representation
+
+Data analysis
+
+Data visualization
+
+Utilization of analysis results
+
+Week 1 Glossary Terms:
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to drive informed decision-making
+Data analytics: The science of data
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+
+Week 2
+
+Analytical skills are qualities and characteristics associated with solving problems using facts.
+They are curiosity, understanding context, having technical mindset, data design, and data strategy.
+
+Curiosity is all about wanting to learn something
+Context is the condition in which something exists or happens.
+A technical mindset involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
+Data design is how you organize information
+Data strategy is the management of the people, processes, and tools used in data analysis.
+
+Analytical thinking involves identifying and defining a problem and then solving it by using data in an organized, step-by-step manner. As data analysts, how do we think analytically? Well, to answer that question, we will now talk about a second set of five. The five key aspects to analytical thinking. They are visualization, strategy, problem-orientation, correlation, and finally, big-picture and detail-oriented thinking.
+
+In data analytics, visualization is the graphical representation of information. Some examples include graphs, maps, or other design elements.
+Strategizing helps data analysts see what they want to achieve with the data and how they can get there. Strategy also helps improve the quality and usefulness of the data we collect. By strategizing, we know all our data is valuable and can help us accomplish our goals.
+Data analysts use a problem- oriented approach in order to identify, describe, and solve problems. It's all about keeping the problem top of mind throughout the entire project.
+Data analysts also ask a lot of questions.
+This leads us to the fourth quality of analytical thinking: being able to identify a correlation between two or more pieces of data. A correlation is like a relationship. You can find all kinds of correlations in data.
+Now the final piece of the analytical thinking puzzle: big-picture thinking. This means being able to see the big picture as well as the details. A jigsaw puzzle is a great way to think about this. Big-picture thinking is like looking at a complete puzzle.
+On the flip side, detail-oriented thinking is all about figuring out all of the aspects that will help you execute a plan. In other words, the pieces that make up your puzzle.
+
+The more ways you can think, the easier it is to think outside the box and come up with fresh ideas. But why is it important to think in different ways? Well because in data analysis, solutions are almost never right in front of you.
+A root cause is the reason why a problem occurs. If we can identify and get rid of a root cause, we can prevent that problem from happening again.
+A simple way to wrap your head around root causes is with the process called the Five Whys. In the Five Whys you ask "why" five times to reveal the root cause. The fifth and final answer should give you some useful and sometimes surprising insights.
+Another question commonly asked by data analysts is, where are the gaps in our process? For this, many people will use something called gap analysis. Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future. Businesses conduct gap analysis to do all kinds of things, such as improve a product or become more efficient
+The general approach to gap analysis is understanding where you are now compared to where you want to be.
+
+Data analysts can tap into the power of data to do all kinds of amazing things. With data, they can gain valuable insights, verify their theories or assumptions, better understand opportunities and challenges, support an objective, help make a plan, and much more. In business, data-driven decision-making can improve the results in a lot of different ways.
+
+These are just some of the benefits of data-driven decision-making. It gives you greater confidence about your choice and your abilities to address business challenges. It helps you become more proactive when an opportunity presents itself, and it saves you time and effort when working towards a goal.
+
+The more you learn about the power of data, the more curious you're likely to become. You'll start to see patterns and relationships in everyday life, whether you're reading the news, watching a movie, or going to an appointment across town. The analysts take their thinking a step further by using context to make predictions, research answers, and eventually draw conclusions about what they've discovered. This natural process is a great first step in becoming more data-driven.
+
+Data analysts are no different. They have gut feelings too. But they've trained themselves to build on those feelings and use a more technical approach to explore them. They do this by always seeking out the facts, putting them to work through analysis, and using the insights they gain to make informed decisions.
+
+The final ability is data strategy, which incorporates the people, processes, and tools used to solve a problem. This is a big one to remember because data strategy gives you a high-level view of the path you need to take to achieve your goals
+
+Week 2: Glossary Terms
+
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Context: The condition in which something exists or happens
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Root cause: The reason why a problem occurs
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Visualization: (Refer to data visualization)
+
+Week 3
+
+How do data analysts bring data to life? Well, it starts with the right data analysis tool. These include spreadsheets, databases, query languages, and visualization software.
+
+*****Data Analysis Life Cycle*****
+Phase 1
+Ask: Define the problem and confirm stakeholder expectations
+Phase 2
+Prepare: Collect and store data for analysis
+Phase 3
+Process: Clean and transform data to ensure integrity
+Phase 4
+Analyze: Use data analysis tools to draw conclusions
+Phase 5
+Share: Interpret and communicate results to others to make data-driven decisions
+Phase 6
+Act: Put your insights to work in order to solve the original problem
+
+There's actually no wrong answer because everything has a life cycle.
+The life cycle of data is plan, capture, manage, analyze, archive and destroy.
+
+During planning, a business decides what kind of data it needs, how it will be managed throughout its life cycle, who will be responsible for it, and the optimal outcomes.
+
+Another way to get data is from a company's own documents and files, which are usually stored inside a database
+A database is a collection of data stored in a computer system
+when you maintain a database of customer information, ensuring data integrity, credibility, and privacy are all important concerns
+
+The next phase of the data life cycle, manage. Here we're talking about how we care for our data, how and where it's stored, the tools used to keep it safe and secure, and the actions taken to make sure that it's maintained properly. This phase is very important to data cleansing,
+
+Next it's time to analyze your data. This is where data analysts really shine. In this phase, the data is used to solve problems, make great decisions, and support business goals.
+
+Moving along the data life cycle now evolves to the archive phase. Archiving means storing data in a place where it's still available, but may not be used again
+
+And finally, the last step of the data life cycle, the destroy phase. Yes, it sounds sad, but when you destroy data, it won't hurt a bit.
+
+****Data Life Cycle*****
+Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+
+Capture: Collect or bring in data from a variety of different sources.
+
+Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+
+Analyze: Use the data to solve problems, make decisions, and support business goals.
+
+Archive: Keep relevant data stored for long-term and future reference.
+
+Destroy: Remove data from storage and delete any shared copies of the data.
+
+
+Let's start with the first step in data analysis, the ask phase. In this phase, we do two things. We define the problem to be solved and we make sure that we fully understand stakeholder expectations. Stakeholders hold a stake in the project. They are people who have invested time and resources into a project and are interested in the outcome
+Communicating with your stakeholders is key in making sure you stay engaged and on track throughout the project
+
+After that, we'll move on to the prepare step of the data analysis process. This is where data analysts collect and store data they'll use for the upcoming analysis process.
+
+Next is the process step. Here, data analysts find and eliminate any errors and inaccuracies that can get in the way of results. This usually means cleaning data, transforming it into a more useful format, combining two or more datasets to make information more complete and removing outliers, which are any data points that could skew the information
+
+Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, make predictions, and drive informed decision-making. There are lots of powerful tools data analysts use in their work and in this course you'll learn about two of them, spreadsheets and structured query language, or SQL, which is often pronounced "sequel.
+
+The next course is based on the share phase. Here you'll learn how data analysts interpret results and share them with others to help stakeholders make effective data-driven decisions. In the share phase, visualization is a data analyst's best friend.
+
+For our final data analysis phase, we have act. This is the exciting moment when the business takes all of the insights you, the data analyst, have provided and puts them to work in order to solve the original business problem and will be acting on what you've learned throughout this program
+
+
+*****Data Analysis Process*****
+Ask
+• Ask effective questions
+• Define the problem
+• Use structured thinking
+• Communicate with others
+Prepare
+• Understand how data is
+generated and collected
+• Identify and use different data
+formats, types, and structures
+• Make sure data is unbiased and
+credible
+• Organize and protect data
+Process
+• Create and transform data
+• Maintain data integrity
+• Test data
+• Clean data
+• Verify and report on cleaning results
+Analyze
+• Use tools to format and transform data
+• Sort and filter data
+• Identify patterns and draw conclusions
+• Make predictions and recommendations
+• Make data-driven decisions
+Share
+• Understand visualization
+• Create effective visuals
+• Bring data to life
+• Use data storytelling
+• Communicate to help others understand results
+Act
+• Apply your insights
+• Solve problems
+• Make decisions
+• Create something new
+
+
+
+Let's get started with spreadsheets. Again, there are lots of different spreadsheet solutions, but two popular options are Microsoft Excel and Google Sheets. To put it simply, a spreadsheet is a digital worksheet. It stores, organizes, and sorts data. This is important because the usefulness of your data depends on how well it's structured.
+Spreadsheets also have some really useful features called formulas and functions. A formula is a set of instructions that performs a specific calculation using the data in a spreadsheet. Formulas can do basic things like add, subtract, multiply and divide, but they don't stop there. You can also use formulas to find the average of a number set. Look up a particular value, return the sum of a set of values that meets a particular rule, and so much more.
+
+The next data analysis tool is called query language. A query language is a computer programming language that allows you to retrieve and manipulate data from a database. You'll learn something called structured query language, more commonly known as SQL. SQL is a language that lets data analysts communicate with a database
+A database is a collection of data stored in a computer system. SQL is the most widely used structured query language for a couple of reasons. It's easy to understand and works very well with all kinds of databases. With SQL, data analysts can access the data they need by making a query. Although query means question, I like to think of it as more of a request. So you're requesting that the database do something for you. You can ask it to do a lot of different things such as insert, delete, select or update data.
+
+Lastly, let's talk about data visualization. You've learned that data visualization is the graphical representation of information. Some examples include graphs, maps, and tables. Most people process visuals more easily than words alone. That's why visualizations are so important. They help data analysts communicate their insights to others, in an effective and compelling way. When you think about the data analysis process, after data is prepared, processed and analyzed, the insights are visualized so it can be understood and shared.
+Some popular visualization tools are Tableau and Looker. Data analysts like using Tableau because it helps them create visuals that are very easy to understand. This means that even non-technical users can get the information they need. Looker is also popular with data analysts because it gives them an easy way to create visuals based on the results of a query. With Looker, you can give stakeholders a complete picture of your work by showing them visualization data and the actual data related to it.
+
+****Spreadsheets****
+
+Data analysts rely on spreadsheets to collect and organize data. Two popular spreadsheet applications you will probably use a lot in your future role as a data analyst are Microsoft Excel and Google Sheets.
+
+Spreadsheets structure data in a meaningful way by letting you
+
+Collect, store, organize, and sort information
+
+Identify patterns and piece the data together in a way that works for each specific data project
+
+Create excellent data visualizations, like graphs and charts.
+
+******Databases and query languages******
+
+A database is a collection of structured data stored in a computer system. Some popular Structured Query Language (SQL) programs include MySQL, Microsoft SQL Server, and BigQuery.
+
+Query languages
+
+ 1) Allow analysts to isolate specific information from a database(s)
+
+ 2) Make it easier for you to learn and understand the requests made to databases
+
+ 3) Allow analysts to select, create, add, or download data from a database for analysis
+
+****Visualization tools*****
+Data analysts use a number of visualization tools, like graphs, maps, tables, charts, and more. Two popular visualization tools are Tableau and Looker.
+
+These tools
+
+Turn complex numbers into a story that people can understand
+
+Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies
+
+Have multiple features
+
+             - Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and
+
+                worksheets
+
+             - Looker communicates directly with a database, allowing you to connect your data right to the visual
+
+                 tool you choose
+
+A career as a data analyst also involves using programming languages, like R and Python, which are used a lot for statistical analysis, visualization, and other data analysis.
+
+Spreadsheets
+1) Software applications
+2) Structure data in a row and column format
+3) Organize information in cells
+4) Provide access to a limited amount of data
+5) Manual data entry
+6) Generally one user at a time
+7) Controlled by the user
+
+Databases
+1) Data stores - accessed using a query language (e.g. SQL)
+2) Structure data using rules and relationships
+3) Organize information in complex collections
+4) Provide access to huge amounts of data
+5) Strict and consistent data entry
+6) Multiple users
+7) Controlled by a database management system
+
+Week 3: Glossary Terms
+
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Context: The condition in which something exists or happens
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Query language: A computer programming language used to communicate with a database
+Root cause: The reason why a problem occurs
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Visualization: (Refer to data visualization)
+
+
+Week 4
+
+Spreadsheets are a big part of data analytics. The sooner you make friends with spreadsheets, the better. Trust me, they'll save you a lot of time as a data analyst and make your whole job easier.
+Speaking of keeping things in order, columns are organized vertically in a spreadsheet and are ordered by letter. And the rows are organized horizontally and are ordered by number. So when you talk about a specific cell, you name it by combining the column letter and the row number where the cell is located. For example, in this spreadsheet, the word row is in cell D3.
+
+We'll start with some basic operations. Keep in mind, as an analyst, you won't always create your own dataset. But for now, let's do just that. I'll click in cell A2 and type my first name like this. Then I'll click in cell B2 and type my last name.
+Don't worry if your name doesn't fit in the cell, you can always make columns wider if you need to. All you have to do is click and drag the right edge of the column until your name fits. Or you can use the text wrapping feature, which will set cells to automatically change their height to allow the text in the cell to fit.
+To use this feature, select the cells, columns, or rows with text, then use the format menu to look at the text wrapping options.
+
+Now let's label it. This is important for organization. Adding labels to the top of the columns will make it easier to reference and find data later on when you're doing analysis. These column labels are usually called attributes. An attribute is a characteristic or quality of data used to label a column in a table. More commonly, attributes are referred to as column names, column labels, headers, or the header row.
+Let's add some headers to our table. I'll click in cell A1 and type the words first name.
+Make these attributes bold so they stand out more. Spreadsheets can get really big, so you want to make sure your data is clearly labeled and easy to find. I can use my cursor to select the cells with the attributes
+
+In a dataset, a row is also called an observation. An observation includes all of the attributes for something contained in a row of a data table. In this case, row 3 is an observation of Willa Stein because we see all of her attributes in this row.
+
+Let's say we want to organize our data by how many siblings each person has. There's a simple way to do that. First, we'll need to select all of our columns with data so that all of it is reorganized together.
+Then we can go to our data menu. Here we have some options. Let's select sort range. This will let us choose how to organize the column.
+Next, we'll choose A to Z, which will organize our numbers in order from smallest to largest. Now, we want to watch out for header row, which is the word siblings, the attribute for this column. We'll check this box. This makes sure the word siblings stays in place. Now we're ready to sort.
+
+You can think of formulas as one way of manipulating data in a spreadsheet. Formulas are like a calculator, but more powerful. A formula is a set of instructions that performs a specific action using the data in a spreadsheet.
+To do this, the formula uses cell references for the values it's calculating. Let me show you. Here we go. We'll click in the next cell in the siblings column. Then we'll type an equal sign. All formulas begin with this symbol. Next, we'll type in the cells we want to add together. In this case, we'll type in C2 plus C3 plus C4. Now we can press "Enter". There it is. The formula has given us the total number of siblings represented in this dataset.
+
+To get familiar with spreadsheets, you should consider a spreadsheet’s format:
+
+- Each rectangular block is a cell.
+
+- Each cell is meant for one data point, just like in the table you created previously.
+
+Now, consider the cells that run across the top of the spreadsheet (horizontally) and along the left side of the spreadsheet (vertically):
+
+- Cells are organized by columns and rows.
+
+- Each column has a distinct letter, and each row has a distinct number.
+
+- Each cell has a unique identifier composed of the column letter and row number. This identifier is like the cell’s address.
+
+Did you notice what happened to the chart when you entered the data in the spreadsheet? The spreadsheet visualized the data for you by making it into a basic bar chart. There are many different ways to customize charts, but first you need to clean up your chart. Then, you can interpret the data visualization!
+ow that you have a chart, it’s time to clean it up. It’s generally a good idea to tidy your chart by making it descriptive and aesthetically pleasing. Keep in mind that good data analysts are data storytellers!
+
+To change the title of your chart, double click on the chart. You should find that a “Chart Editor” menu displays on the side of your screen. Click on “Chart & axis titles”, and then enter the name of your chart in the “Title Text” box:
+
+Excel Basics Cheat Sheet:
+https://www.coursera.org/learn/foundations-data/supplement/tb0lx/more-spreadsheet-resources#:~:text=Microsoft%20Excel%20for%20Windows%20Training
+
+Google Sheets Basics Cheat Sheet:
+https://www.coursera.org/learn/foundations-data/supplement/tb0lx/more-spreadsheet-resources#:~:text=Google%20Sheets%20Cheat%20Sheet
+
+
+SQL can do lots of the same things with data that spreadsheets can do. You can use it to store, organize and analyze your data, among other things. But like any good sequel, it's on a larger scale, bigger, more action-packed. Think of it as supersize spreadsheets.
+For example, you might want to consider a spreadsheet when you have a smaller dataset, such as one with just 100 rows. But if your data set seems to go on forever, and your spreadsheet is struggling to keep up, SQL would be the way to go
+
+SQL needs a database that will understand its language. Let's talk. There are a number of databases out there that use SQL. You may use several of them during your time as a data analyst. But here's the thing, no matter which database you use, SQL basically works for the same in each.
+For example, in SQL, queries are universal. We've talked about queries before, but it never hurts to have a refresher. A query is a request for data or information from a database. Here's the structure of a basic query.
+
+Format of Query:
+
+SELECT <data (use * to select all data)
+FROM <data>
+WHERE <condition>
+
+The syntax of every SQL query is the same:
+
+Use SELECT to choose the columns you want to return.
+
+Use FROM to choose the tables where the columns you want are located.
+
+Use WHERE to filter for certain information.
+
+SELECT the column named first_name
+FROM a table named customer_name (in a dataset named customer_data)
+(The dataset name is always followed by a dot, and then the table name.)
+But only return the data WHERE the first_name is Tony
+
+Looks like this in the data warehouse BigQuery:
+
+SELECT
+        first_name
+FROM
+        customer_data.customer_name
+WHERE
+        first_name = 'Tony'
+
+In real life, you will need to work with more data beyond customers named Tony. Multiple columns that are chosen by the same SELECT command can be indented and grouped together.
+
+If you are requesting multiple data fields from a table, you need to include these columns in your SELECT command. Each column is separated by a comma as shown below:
+
+SELECT
+        first_name,
+        customer_id,
+        last_name
+FROM
+        customer_data.customer_name
+WHERE
+        first_name = 'Tony'
+
+Notice that unlike the SELECT command that uses a comma to separate fields/variables/parameters, the WHERE command uses the AND statement to connect conditions. As you become a more advanced writer of queries, you will make use of other connectors/operators such as OR and NOT.
+
+Here is a BigQuery example with multiple fields used in a WHERE clause:
+SELECT
+        first_name,
+        customer_id,
+        last_name
+FROM
+        customer_data.customer_name
+WHERE
+        first_name = 'Tony'
+        AND customer_id > 0
+        AND lats_name = 'Magnolia'
+
+The most important thing to remember is how to use SELECT, FROM, and WHERE in a query. Queries with multiple fields will become simpler after you practice writing your own SQL queries later in the program.
+
+
+You can write your SQL queries in all lowercase and don’t have to worry about extra spaces between words. However, using capitalization and indentation can help you read the information more easily. Keep your queries neat, and they will be easier to review or troubleshoot if you need to check them later on.
+
+SELECT
+        field_1
+FROM
+        table
+WHERE
+        field_1 = condition;
+
+
+Notice that the SQL statement shown above has a semicolon at the end. The semicolon is a statement terminator
+However, not all SQL databases have adopted or enforce the semicolon, so it’s possible you may come across some SQL statements that aren’t terminated with a semicolon. If a statement works without a semicolon, it’s fine.
+
+In the query shown above, the SELECT clause identifies the column you want to pull data from by name, field1, and the FROM clause identifies the table where the column is located by name, table. Finally, the WHERE clause narrows your query so that the database returns only the data with an exact value match or the data that matches a certain condition that you want to satisfy.
+
+For example, if you are looking for a specific customer with the last name Chavez, the WHERE clause would be:
+
+WHERE field1 = 'Chavez'
+
+However, if you are looking for all customers with a last name that begins with the letters “Ch," the WHERE clause would be:
+
+WHERE field1 LIKE 'Ch%'
+
+You can conclude that the LIKE clause is very powerful because it allows you to tell the database to look for a certain pattern! The percent sign (%) is used as a wildcard to match one or more characters. In the example above, both Chavez and Chen would be returned. Note that in some databases an asterisk (*) is used as the wildcard instead of a percent sign (%).
+
+SELECT all columns
+Can you use  SELECT * ?
+
+In the example, if you replace SELECT field1 with SELECT * , you would be selecting all of the columns in the table instead of the field1 column only. From a syntax point of view, it is a correct SQL statement, but you should use the asterisk (*) sparingly and with caution.  Depending on how many columns a table has, you could be selecting a tremendous amount of data. Selecting too much data can cause a query to run slowly.
+
+SELECT
+        *
+FROM
+        table
+WHERE
+        field_1 = condition;
+
+Comments are text placed between certain characters, /* and */, or after two dashes (--) as shown below.
+Comments can also be added outside of a statement as well as within a statement. You can use this flexibility to provide an overall description of what you are going to do, step-by-step notes about how you achieve it, and why you set different parameters/conditions.
+/* Example Comment */
+-- Comment Syntax two
+SELECT
+        field_1 /* example of a comment*/
+FROM
+        table -- Another comment
+WHERE
+        field_1 = condition;
+
+
+You can also make it easier on yourself by assigning a new name or alias to the column or table names to make them easier to work with (and avoid the need for comments). This is done with a SQL AS clause. In the example below, the alias last_name has been assigned to field1 and the alias customers assigned to table. These aliases are good for the duration of the query only. An alias doesn’t change the actual name of a column or table in the database.
+
+/* Example Comment */
+-- Comment Syntax two
+-- Alias Example
+field_1 AS last_name
+
+SELECT
+        last_name /* example of a comment*/
+FROM
+        table -- Another comment
+WHERE
+        field_1 = condition;
+
+Putting SQL to work as a data analyst
+
+Imagine you are a data analyst for a small business and your manager asks you for some employee data. You decide to write a query with SQL to get what you need from the database.
+You want to pull all the columns: empID, firstName, lastName, jobCode, and salary. Because you know the database isn’t that big, instead of entering each column name in the SELECT clause, you use SELECT *.  This will select all the columns from the Employee table in the FROM clause.
+
+SELECT
+        *
+FROM
+        Employee
+WHERE
+        jobCode = 'SFI'
+
+Suppose you notice a large salary range for the SFI job code. You might like to flag all employees in all departments with lower salaries for your manager. Because interns are also included in the table and they have salaries less than $30,000, you want to make sure your results give you only the full time employees with salaries that are $30,000 or less. In other words, you want to exclude interns with the INT job code who also earn less than $30,000. The AND clause enables you to test for both conditions.
+
+You create a SQL query similar to below, where <> means "does not equal":
+
+SELECT
+        *
+FROM
+        Employee
+WHERE
+        jobCode <> 'INT'
+        AND salary <= 3000
+
+SQL Cheat Sheet
+https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa
+
+
+
+You might remember that data visualization is the graphical representation of information. For tons of data analysts, it's the most exciting part of their job because they get to see their hard work pay off with something interesting.
+You gather the data you need in a table, could you explain your findings using the table? Yes, you probably could, but a better idea will be to use a visualization like this bar graph. Something like this makes it much easier for you to explain quickly, and you've got the benefit of a cool graphic to backup your analysis. As a data analyst, you'll want to create visualizations that make the data easy to understand, and interesting to look at, so show it off. Stakeholders may not have much time to devote to the data, your job will be to make their time worthwhile.
+
+You can see that the spreadsheet visualized the data from our table in a way that made the most sense. It created a bar graph or column chart to compare the ages of each person by name, but you might have figured that out already. That's the beauty of visualization, it shows data analysis quickly and clearly. We can use chart editor to adjust the chart. Different spreadsheet programs might have different ways to do this, but they all have visualization functions and ways to edit those visualizations
+
+Having spreadsheets, SQL and data visualization know-how will help make you an ace data detective
+
+Earlier, you learned that data visualization is the graphical representation of information. As a data analyst, you will want to create visualizations that make your data easy to understand and interesting to look at. Because of the importance of data visualization, most data analytics tools (such as spreadsheets and databases) have a built-in visualization component while others (such as Tableau) specialize in visualization as their primary value-add. In this reading, you will explore the steps involved in the data visualization process and a few of the most common data visualization tools available.
+
+Earlier, you learned that data visualization is the graphical representation of information. As a data analyst, you will want to create visualizations that make your data easy to understand and interesting to look at. Because of the importance of data visualization, most data analytics tools (such as spreadsheets and databases) have a built-in visualization component while others (such as Tableau) specialize in visualization as their primary value-add. In this reading, you will explore the steps involved in the data visualization process and a few of the most common data visualization tools available.
+
+
+Steps to plan a data visualization
+
+Step 1: Explore the data for patterns
+First, you ask your manager or the data owner for access to the current sales records and website analytics reports. This includes information about how customers behave on the company’s existing website, basic information about who visited, who bought from the company, and how much they bought.
+While reviewing the data you notice a pattern among those who visit the company’s website most frequently: geography and larger amounts spent on purchases. With further analysis, this information might explain why sales are so strong right now in the northeast—and help your company find ways to make them even stronger through the new website.
+
+Step 2: Plan your visuals
+Next it is time to refine the data and present the results of your analysis. Right now, you have a lot of data spread across several different tables, which isn’t an ideal way to share your results with management and the marketing team. You will want to create a data visualization that explains your findings quickly and effectively to your target audience. Since you know your audience is sales oriented, you already know that the data visualization you use should:
+Show sales numbers over time
+Connect sales to location
+Show the relationship between sales and website use
+Show which customers fuel growth
+
+Step 3: Create your visuals
+Now that you have decided what kind of information and insights you want to display, it is time to start creating the actual visualizations. Keep in mind that creating the right visualization for a presentation or to share with stakeholders is a process. It involves trying different visualization formats and making adjustments until you get what you are looking for. In this case, a mix of different visuals will best communicate your findings and turn your analysis into the most compelling story for stakeholders. So, you can use the built-in chart capabilities in your spreadsheets to organize the data and create your visuals.
+
+Build your data visualization toolkit
+There are many different tools you can use for data visualization.
+
+You can use the visualizations tools in your spreadsheet to create simple visualizations such as line and bar charts.
+You can use more advanced tools such as Tableau that allow you to integrate data into dashboard-style visualizations.
+If you’re working with the programming language R you can use the visualization tools in RStudio.
+Your choice of visualization will be driven by a variety of drivers including the size of your data, the process you used for analyzing your data (spreadsheet, or databases/queries, or programming languages). For now, just consider the basics.
+
+Spreadsheets (Microsoft Excel or Google Sheets)
+In our example, the built-in charts and graphs in spreadsheets made the process of creating visuals quick and easy. Spreadsheets are great for creating simple visualizations like bar graphs and pie charts, and even provide some advanced visualizations like maps, and waterfall and funnel diagrams (shown in the following figures).
+But sometimes you need a more powerful tool to truly bring your data to life. Tableau and RStudio are two examples of widely used platforms that can help you plan, create, and present effective and compelling data visualizations.
+
+Visualization software (Tableau)
+Tableau is a popular data visualization tool that lets you pull data from nearly any system and turn it into compelling visuals or actionable insights. The platform offers built-in visual best practices, which makes analyzing and sharing data fast, easy, and (most importantly) useful. Tableau works well with a wide variety of data and includes an interactive dashboard that lets you and your stakeholders click to explore the data interactively.
+
+You can start exploring Tableau from the How-to Video resources: https://public.tableau.com/en-us/s/resources
+
+Programming language (R with RStudio)
+A lot of data analysts work with a programming language called R. Most people who work with R end up also using RStudio, an integrated developer environment (IDE), for their data visualization needs. As with Tableau, you can create dashboard-style data visualizations using RStudio.
+
+Week 4 Glossary Terms:
+
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Attribute: A characteristic or quality of data used to label a column in a table
+Context: The condition in which something exists or happens
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Observation: The attributes that describe a piece of data contained in a row of a table
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+Root cause: The reason why a problem occurs
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Visualization: (Refer to data visualization)
+
+Week 5
+
+Many Industries use data analytics
+An issue is a topic or subject to investigate. A question is designed to discover information and a problem is an obstacle or complication that needs to be worked out
+
+A business task is the question or problem data analysis answers for business. This is where you focus a lot of your efforts in the work you'll do for future employers
+
+Data-driven decision-making is when facts that have been discovered through data analysis are used to guide business strategy. The simplest way to think about decision-making is that it's a choice between consequences, good, bad, or a combination of both
+
+Let's learn what fairness means when we talk about data analysis and why it's important for you as an analyst to keep in mind. Fairness means ensuring that your analysis doesn't create or reinforce bias
+Well, here's the tough part about fairness in data analytics. There isn't one standard definition of it, but hopefully the way we've just described it can give you one way to think about fairness for right now, but it's about to get a bit trickier. Sometimes conclusions based on data can be true and unfair.
+
+Let's say we have a company that's kind of notorious for being a boys club. There isn't much representation of other genders. This company wants to see which employees are doing well, so they start gathering data on employee performance and their own company culture. The data shows that men are the only people succeeding at this company. Their conclusion? That they should hire more men. After all, they're doing really well here, right? But that's not a fair conclusion for a couple of reasons. First, it doesn't even consider all of the available data on company culture, so it paints an incomplete picture. Second, it doesn't think about the other surrounding factors that impact the data, or in other words, the conclusion doesn't consider the difficulties that people of different gender identities have trying to navigate a toxic work environment. If the company only looks at this conclusion, they won't acknowledge and address how harmful their culture is and they won't understand why certain people are set up to fail within it. That's why it's important to keep fairness in mind when analyzing data.
+The conclusion that only men are succeeding at this company is true, but it ignores other systematic factors that are contributing to this problem.
+
+An ethical data analyst can look at the data gathered and conclude that the company culture is preventing some employees from succeeding, and the company needs to address those problems to boost performance.
+
+As a data analyst it's your responsibility to make sure your analysis is fair and factors in the complicated social context that could create bias in your conclusions. It's important to think about fairness from the moment you start collecting data for a business task to the time you present your conclusions to your stakeholders.
+
+Decoding the job description
+The data analyst role is one of many job titles that contain the word “analyst.”
+
+To name a few others that sound similar but may not be the same role:
+
+Business analyst — analyzes data to help businesses improve processes, products, or services
+Data analytics consultant — analyzes the systems and models for using data
+Data engineer — prepares and integrates data from different sources for analytical use
+Data scientist — uses expert skills in technology and social science to find trends through data analysis
+Data specialist — organizes or converts data for use in databases or software systems
+Operations analyst — analyzes data to assess the performance of business operations and workflows
+
+Data analysts, data scientists, and data specialists sound very similar but focus on different tasks. As you start to browse job listings online, you might notice that companies’ job descriptions seem to combine these roles or look for candidates who may have overlapping skills. The fact that companies often blur the lines between them means that you should take special care when reading the job descriptions and the skills required.
+
+Job Tips:
+As a recruiter some advice I would give for a data analyst that's starting to look for a job. Think about a time where you've used data to solve a problem, whether it's in your professional or personal projects. Another tip, I would say for a data analyst that's looking for a new job is to increase your professional network. There are many ways to increase your professional network. One of them is to increase your online footprint, reach out to other analysts on LinkedIn, join local meet-ups with other data scientists. Sometimes when we're looking for a unique skill set, recruiters are going on websites like LinkedIn, and GitHub, and trying to find that talent themselves. It's really important to have your LinkedIn updated along with websites like GitHub, where you can showcase a lot of the data analysts projects you've done. Another tip I would say for an in-person interview is to prepare questions for the interviewer. Make sure they're not broad questions. They should be questions that will help you understand the team and the job better. If you're given a case study in an interview, you should expect to be given a business problem along with the sample data set. Then you'd be asked to take that sample data set, analyze it, and come up with a solution. One of the things you can do to help prepare yourself for this is to ensure you are analyzing the data and coming up with a solution that relates back to that data
+Online applications could be a really big black hole where you never hear back from the recruiter or the team. When you reach out directly to a hiring manager or recruiter, it really shows your eagerness for the role and your interests for the role. Even if sometimes you don't get a response from reaching out, you never know, you try multiple different times. That one time you get a response back from a recruiter or hiring manager, could be the time you get the job that you really wanted.
+
+Week 5 Glossary Terms:
+
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Attribute: A characteristic or quality of data used to label a column in a table
+Business task: The question or problem data analysis resolves for a business
+Context: The condition in which something exists or happens
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Fairness: A quality of data analysis that does not create or reinforce bias
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Observation: The attributes that describe a piece of data contained in a row of a table
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+Root cause: The reason why a problem occurs
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Visualization: (Refer to data visualization)
+

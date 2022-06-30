@@ -1,0 +1,754 @@
+Week 1
+
+Data visualization is the graphic representation and presentation of data.
+Your audience should know exactly what they're looking at within the first five seconds of seeing it. Basically, this means the visual should be clear and easy to follow. In the five seconds after that, your audience should understand the conclusion your visualization is making.
+
+Data visualizations are a helpful tool for fitting a lot of information into a small space. To do this, you first need to structure and organize your thoughts. Think about your objectives and the conclusions you've reached after sorting through data. Then think about the patterns you've noticed in the data, the things that surprised you and, of course, how all of this fits together into your analysis. Identifying the key elements of your findings help set the stage for how you should organize your presentation.
+
+This graphic includes four key elements: the information or data, the story, the goal and the visual form. It's arranged in a four-part Venn diagram, which tells us that all four elements are needed for a successful visualization.
+
+The story or concept adds meaning to the data and makes it interesting.
+The goal or function makes the data both useful and usable, and the visual form creates both beauty and structure.
+On their own, each element has value, but visualizations only become truly powerful and effective when you combine all four elements in a way that makes sense.
+
+Each Visual Should Include:
+
+Information(data): the data you are working with
+Story(concept): a clear and compelling narrative or concept
+Goal(function): a specific objective or function for the visual
+Visual form(metaphor): an effective use of metaphor or visual expression
+
+
+Kaiser Fung Questions:
+What is the practical question?
+What does the data say?
+What does the visual say?
+
+Pre-attentive attributes are the elements of a data visualization that people recognize automatically without conscious effort. The essential, basic building blocks that make visuals immediately understandable are called marks and channels.
+
+
+Marks are basic visual objects like points, lines, and shapes. Every mark can be broken down into four qualities:
+Position - Where a specific mark is in space in relation to a scale or to other marks
+Size - How big, small, long, or tall a mark is
+Shape - Whether a specific object is given a shape that communicates something about it
+Color - What color the mark is
+
+
+Channels are visual aspects or variables that represent characteristics of the data. Channels are basically marks that have been used to visualize data. Channels will vary in terms of how effective they are at communicating data based on three elements:
+Accuracy - Are the channels helpful in accurately estimating the values being represented?
+Popout - How easy is it to distinguish certain values from others?
+Grouping - How good is a channel at communicating groups that exist in the data?
+
+Design Principles:
+
+Principle:
+Choose the right visual
+Optimize the data-ink ratio
+Use orientation effectively
+Color
+
+
+Description:
+One of the first things you have to decide is which visual will be the most effective for your audience. Sometimes, a simple table is the best visualization. Other times, you need a more complex visualization to illustrate your point.
+The data-ink entails focusing on the part of the visual that is essential to understanding the point of the chart. Try to minimize non-data ink like boxes around legends or shadows to optimize the data-ink ratio.
+Make sure the written components of the visual, like the labels on a bar chart, are easy to read. You can change the orientation of your visual to make it easier to read and understand.
+There are a lot of important considerations when thinking about using color in your visuals. These include using color consciously and meaningfully, staying consistent throughout your visuals, being considerate of what colors mean to different people, and using inclusive color scales that make sense for everyone viewing them.
+Think about how many elements you include in any visual. If your visualization uses lines, try to plot five or fewer. If that isn’t possible, use color or hue to emphasize important lines. Also, when using visuals like pie charts, try to keep the number of segments to less than seven since too many elements can be distracting.
+
+
+Avoiding misleading or deceptive charts:
+
+What to avoid:
+Cutting off the y-axis
+Misleading use of a dual y-axis
+Artificially limiting the scope of the data
+Problematic choices in how data is binned or grouped
+Using part-to-whole visuals when the totals do not sum up appropriately
+Hiding trends in cumulative charts
+Artificially smoothing trends
+
+Why:
+Changing the scale on the y-axis can make the differences between different groups in your data seem more dramatic, even if the difference is actually quite small.
+Using a dual y-axis without clearly labeling it in your data visualization can create extremely misleading charts.
+If you only consider the part of the data that confirms your analysis, your visualizations will be misleading because they don’t take all of the data into account.
+It is important to make sure that the way you are grouping data isn’t misleading or misrepresenting your data and disguising important trends and insights.
+If you are using a part-to-whole visual like a pie chart to explain your data, the individual parts should add up to equal 100%. If they don’t, your data visualization will be misleading.
+Creating a cumulative chart can disguise more insightful trends by making the scale of the visualization too large to track any changes over time.
+Adding smooth trend lines between points in a scatter plot can make it easier to read that plot, but replacing the points with just the line can actually make it appear that the point is more connected over time than it actually was.
+
+
+Bar graphs are a great way to clarify trends.
+Line graphs are a type of visualization that can help your audience understand shifts or changes in your data.
+Pie charts show how much each part of something makes up the whole.
+
+The x-axis is a horizontal line used to represent categories, time periods, or other variables. The y-axis is a vertical line that usually has a scale of values for variables.
+
+
+One of your biggest considerations when creating a data visualization is where you'd like your audience to focus.
+
+Now let's talk about what you can show with visualizations.
+Change over time is a big one
+
+Another situation is when you need to show how your data is distributed.
+A histogram resembles a bar graph, but it's a chart that shows how often data values fall into certain ranges.
+Each bin or bucket, as the bar is called, contains a certain number of values that fall into one small part of the range
+
+If your data needs to be ranked, like when ordering the number of responses to survey questions. You should first think about what you want to highlight in your visualization.
+Bar charts with horizontal bars effectively show data that are ranked, with bars arranged in ascending or descending order. A bar chart should always be ranked by value, unless there's a natural order to the data like age or time, for example
+
+Correlation charts can show relationships among data, but they should be used with caution because they might lead viewers to think that the data shows causation.
+Causation or a cause-effect relationship occurs when an action directly leads to an outcome.
+If we put that data into a visualization, then it would be misleading.
+But correlation charts that do show causation can be effective.
+
+
+Correlation in statistics is the measure of the degree to which two variables move in relationship to each other. An example of correlation is the idea that “As the temperature goes up, ice cream sales also go up.” It is important to remember that correlation doesn’t mean that one event causes another. But, it does indicate that they have a pattern with or a relationship to each other.
+If one variable goes up and the other variable also goes up, it is a positive correlation. If one variable goes up and the other variable goes down, it is a negative or inverse correlation. If one variable goes up and the other variable stays about the same, there is no correlation.
+
+Causation refers to the idea that an event leads to a specific outcome. For example, when lightning strikes, we hear the thunder (sound wave) caused by the air heating and cooling from the lightning strike. Lightning causes thunder.
+
+In your data analysis, remember to:
+
+Critically analyze any correlations that you find
+Examine the data’s context to determine if a causation makes sense (and can be supported by all of the data)
+Understand the limitations of the tools that you use for analysis
+
+
+A line chart is used to track changes over short and long periods of time. When smaller changes exist, line charts are better to use than bar graphs
+Column charts use size to contrast and compare two or more values, using height or lengths to represent the specific values.
+Similar to bar charts, heatmaps also use color to compare categories in a data set. They are mainly used to show relationships between two variables and use a system of color-coding to represent different values.
+The pie chart is a circular graph that is divided into segments representing proportions corresponding to the quantity it represents, especially when dealing with parts of a whole.
+Scatter plots show relationships between different variables. Scatter plots are typically used for two variables for a set of data, although additional variables can be displayed.
+A distribution graph displays the spread of various outcomes in a dataset.
+
+Change: This is a trend or instance of observations that become different over time. A great way to measure change in data is through a line or column chart.
+Clustering: A collection of data points with similar or different values. This is best represented through a distribution graph.
+Relativity: These are observations considered in relation or in proportion to something else. You have probably seen examples of relativity data in a pie chart.
+Ranking: This is a position in a scale of achievement or status. Data that requires ranking is best represented by a column chart.
+Correlation: This shows a mutual relationship or connection between two or more things. A scatter plot is an excellent way to represent this type of data pattern.
+
+A decision tree is a decision-making tool that allows you, the data analyst, to make decisions based on key questions that you can ask yourself. Each question in the visualization decision tree will help you make a decision about critical features for your visualization.
+
+
+Lines and visualizations can be curved or straight, thick or thin, vertical, horizontal, or diagonal. They can add visual form to your data and help build a structure for your visualization.
+Shapes are also known for their variety. Shapes and visualizations should always be two-dimensional. This is because three-dimensional objects in a visualization can complicate the visual and confuse the audience. Shapes are also a great way to add eye-catching contrast, especially size contrast to your data story.
+Colors can be described by their hue, intensity, and value. The hue of a color is basically its name, red, green, blue and so on. Intensity is how bright or dull a color is, and finally, there's value. The value is how light or dark the colors are in a visualization.
+Space is the area between, around and in the objects. There should always be space in data visualizations, just not too much or too little.
+Movement is used to create a sense of flow or action in a visualization.
+
+There are nine basic principles of design that data analysts should think about when building their visualizations.
+1. Balance: The design of a data visualization is balanced when the key visual elements, like color and shape, are distributed evenly. This doesn’t mean that you need complete symmetry, but your visualization shouldn’t have one side distracting from the other. If your data visualization is balanced, this could mean that the lines used to create the graphics are similar in length on both sides, or that the space between objects is equal. For example, this column chart (also shown below) is balanced; even though the columns are different heights and the chart isn’t symmetrical, the colors, width, and spacing of the columns keep this data visualization balanced. The colors provide sufficient contrast to each other so that you can pay attention to both the motivation level and the energy level displayed.
+2. Emphasis: Your data visualization should have a focal point, so that your audience knows where to concentrate. In other words, your visualizations should emphasize the most important data so that users recognize it first. Using color and value is one effective way to make this happen. By using contrasting colors, you can make certain that graphic elements—and the data shown in those elements—stand out.
+3. Movement: Movement can refer to the path the viewer’s eye travels as they look at a data visualization, or literal movement created by animations. Movement in data visualization should mimic the way people usually read. You can use lines and colors to pull the viewer’s attention across the page.
+4. Pattern: You can use similar shapes and colors to create patterns in your data visualization. This can be useful in a lot of different ways. For example, you can use patterns to highlight similarities between different data sets, or break up a pattern with a unique shape, color, or line to create more emphasis.
+5. Repetition: Repeating chart types, shapes, or colors adds to the effectiveness of your visualization. Think about the book sales chart from the previous example: the repetition of the colors helps the audience understand that there are distinct sets of data. You may notice this repetition in all of the examples we have reviewed so far. Take some time to review each of the previous examples and notice the elements that are repeated to create a meaningful visual story.
+6. Proportion: Proportion is another way that you can demonstrate the importance of certain data. Using various colors and sizes helps demonstrate that you are calling attention to a specific visual over others. If you make one chart in a dashboard larger than the others, then you are calling attention to it. It is important to make sure that each chart accurately reflects and visualizes the relationship among the values in it. In this dashboard (also shown below), the slice sizes and colors of the pie chart compared to the data in the table help make the number of donuts eaten by each person the focal point.
+7. Rhythm: This refers to creating a sense of movement or flow in your visualization. Rhythm is closely tied to the movement principle. If your finished design doesn’t successfully create a flow, you might want to rearrange some of the elements to improve the rhythm.
+8. Variety: Your visualizations should have some variety in the chart types, lines, shapes, colors, and values you use. Variety keeps the audience engaged. But it is good to find balance since too much variety can confuse people. The variety you include should make your dashboards and other visualizations feel interesting and unified.
+9. Unity: The last principle is unity. This means that your final data visualization should be cohesive. If the visual is disjointed or not well organized, it will be confusing and overwhelming.
+
+Choosing the right visualization for your data findings can often come down to one question. Which one will make it easiest for the user to understand the point you're trying to make?
+
+Visual journalists Dona Wong proposes that effective visuals, like the database we've been discussing here have three essential elements.
+The first is clear meaning, good visualizations clearly communicate their intended insight. The second is a sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for. The third essential element for effective visuals is refined execution. Visuals with refined execution include deep attention to detail, using visual elements like lines, shapes, colors, value, space and movement. In other words, the elements of art that we talked about earlier.
+
+Design thinking is a process used to solve complex problems in a user-centric way.
+If you use design thinking when planning and creating your data viz, you'll be making decisions based on the needs of the people who will be viewing them.
+
+We'll talk about five design process phases that you can use when creating data visualizations, empathize, define, ideate, prototype, and test.
+In the empathize phase you think about the emotions and needs of the target audience of your data viz, whether it's stakeholders, team members or the general public.
+The define phase helps you to find your audiences needs, their problems, and your insights.
+In the ideate phase, you start to generate your data viz ideas.
+The final two phases are prototype and test. Here you'll start putting your charts, dashboards or other visualizations together.
+
+
+Within the first five seconds of seeing a data visualization, your audience should understand exactly what you're trying to convey. Five seconds might seem like a flash, but adding in descriptive wording can really help your audience interpret and understand the data in the right way.
+
+One of the easiest ways to highlight key data in your data viz, is through headlines. A headline is a line of words printed in large letters at the top of the visualization to communicate what data is being presented.
+A subtitle supports the headline by adding more context and description. Use a font style that matches the rest of the charts elements and place the subtitle directly underneath the headline.
+Now, let's talk about labels. Earlier, we mentioned Dona Wong, a visual journalist who's well known for sharing guidelines on making data viz more effective. She makes a very strong case for using labels directly on the data instead of relying on legends.
+Direct labeling like this keeps your audience's attention fixed on your graphic and helps them identify data quickly.
+
+Visualization components:
+1) Headlines
+2) Subtitles
+3) Labels
+4) Annotations
+
+Guidelines:
+- Content: Briefly describe the data
+- Length: Usually the width of the data frame
+- Position: Above the data
+
+- Content: Clarify context for the data
+- Length: Same as or shorter than headline
+- Position: Directly below the headline
+
+- Content: Replace the need for legends
+- Length: Usually fewer than 30 characters
+- Position: Next to data or below or beside axes
+
+- Content: Draw attention to certain data
+- Length: Varies, limited by open space
+- Position: Immediately next to data annotated
+
+
+Style checks:
+- Use brief language
+- Don’t use all caps
+- Don’t use italic
+- Don’t use acronyms
+- Don't use abbreviations
+- Don’t use humor or sarcasm
+
+- Use smaller font size than headline
+- Don’t use undefined words
+- Don’t use all caps, bold, or italic
+- Don’t use acronyms
+- Don't use abbreviations
+
+- Use a few words only
+- Use thoughtful color-coding
+- Use callouts to point to the data
+- Don’t use all caps, bold, or italic
+
+- Don’t use all caps, bold, or italic
+- Don't use rotated text
+- Don’t distract viewers from the data
+
+Before you design a data viz, it's important to keep that fact in mind. Not everyone has the same abilities, and people take in information in lots of different ways. You might have a viewer who's deaf or hard of hearing and relies on captions, or someone who's color blind might look to specific labeling for more description.
+Accessibility can be defined a number of different ways.
+
+It helps to label data directly instead of relying exclusively on legends, which require color interpretation and more effort by the viewer to understand. This can also just make it a faster read for those with or without disabilities.
+Another way to make your visualizations more accessible is to provide text alternatives, so that it can be changed into other forms people need, such as large print, braille, or speech.
+
+Alternative text provides a textual alternative to non-text content.
+It allows the content and function of the image to be accessible to those with visual or certain cognitive disabilities.
+
+And speaking of text, you can make data from charts and diagrams available in a text-based format through an export to Sheets or Excel.
+Using bright colors, that contrast against the background can help those with poor visibility, whether permanently or temporarily clearly see the information conveyed. Another option is to avoid relying solely on color to convey information, and instead distinguished with different textures and shapes.
+Another general rule is to avoid over complicating data visualizations. Overly complicated data visualizations turn off most audiences because they can't figure out where and what to focus on.
+
+A common mistake is including too much information in a single piece, or including long chunks, of text or too much information and graphs and charts. This can defeat the whole purpose of your visualization, making it impossible to understand at first glance.
+Focusing on simple, easy to understand visuals, and most importantly, creating alternative ways for your audience to access and interact with your data.
+
+
+Week 2
+
+Tableau can help you make and easily share interactive dashboards, maps, and graphs with your data. Without any coding, you can connect to data and lots of formats like Excel, CSV, and Google Sheets. You might also find yourself working with a company that uses another option, like Looker or Google Data Studio.
+Dynamic visualizations are interactive or change with time.
+
+As you have also learned, Tableau is an analytics platform that helps data analysts display and understand data. Most if not all of the charts that you can create in spreadsheets are available in Tableau. But, Tableau offers some distinct charts that aren’t available in spreadsheets. These are handy guides to help you select chart types in Tableau:
+https://towardsdatascience.com/the-ultimate-cheat-sheet-on-tableau-charts-642bca94dde5
+
+In this video, we're going to use Tableau to create a data viz, a great way to share insights with others.
+
+To begin, you'll need to download the dataset we'll use for this activity. Click the link to create a copy of the dataset and download it.
+First, log in to Tableau public. If you haven't created an account, go back to the reading about logging into Tableau public.
+Okay, now go to the circle in the upper right corner of the window and select my profile. From there, choose Create a Viz. This will open the Tableau public interface.
+From the connect to data window, go to the files tab and upload the CO2 dataset we downloaded earlier.
+Or you can navigate to the data tab at the top of the Tableau public interface. Under the dropdown, click new data source. Then open the CO2 dataset.
+After the data uploads, the screen will show the data source interface. Underneath connections, double click on the sheet's CO2 data cleaned to load that data into the main part of the screen.
+You can also drag and drop the sheet into the area where it says drag tables here.
+Click update now to preview the data you opened in the bottom portion of the screen. By default, Tableau will only show the first 1000 rows in the table, but you can increase the number of rows in the setting above the data view. Each row corresponds to a single data point and each column represents a different feature.
+Tableau interprets the type of data in each column. Each icon represents a different type of data. For example, a number sign represents numerical data while an abc represents string data. A globe represents geographic data and so on. Tableau is interpreted the first 2 columns as geographic data. The third column is string data and the last three columns as numeric data.
+
+All right, let's make a database that demonstrates the amount of CO2 emissions that come from each country.
+To do this, choose the sheet 1 tab in the lower left of the display.
+On the far left of the screen is a banner with column names above a grey line. In tableau, these are called the dimensions of the data.
+Below this line are the different measures that you can track for these dimensions. To create a chart that displays the CO2 emissions per country, we're going to start by double clicking the country name dimension.
+The main display will show a map of the countries on the planet with dots indicating which countries are represented in the data.
+The dots are all the same size because with no measure selected. Tableau defaults to scale each country equally.
+f you want to scale by CO2 emissions, we'll need to include a specific measure. Double click or drag and drop onto the sheet the measures CO2 kilotons. This will change the size of the dots to be proportional to the amount of CO2 emitted.
+Now, let's customize the look of our chart to better communicate trends in the data. If we drag and drop a measure on one of the marks such as color, size and label, we can change that aspect of the measures visualization on the chart. For instance, say we want to change the color of the CO2 measure. We would drag the measure CO2 kilotons to the box with the color label. Then we can select this box to pull up a list of color options.
+
+
+A diverging color palette displays two ranges of values using color intensity to show the magnitude of the number and the actual color to show which range the numbers from. It's a good way to show the difference between numbers.
+
+
+
+In this video we're going to use Tableau to link multiple datasets.
+The connect to data window will pop up. From here, you can go to the files tab and upload the CO2 dataset. Now go to the data source tab, then the connections column. From here, choose the plus icon to add another dataset.
+
+You can proceed to linking them with joins. Tableau has already added energy into the multiple connections area. We can remove it by dragging it back to the connections column.
+To set up our first join will select CO2 under connections. Beneath that in the sheets section, click and drag CO2 data cleaned to the multiple connection section. Then double click the box created by the dataset. This opens the physical table and lets us create joins. To set the first join, select the energy dataset under connections and drag the energy sheet beneath it to the right side of the CO2 data clean box. A pop up window for a join will appear. It will automatically populate with year from CO2 data cleaned and year one from energy. If not, put year on the left side of the chart and year one on the right side.
+Then choose add from join clause under year. Select country name from the drop down on the left side and country on the right side. After that, use the X to close the drop down menu. We need to fix something in our dataset. Year and year one have a number sign above them. We can click those number signs and select date instead to change the data type for each column.
+
+Now join the other datasets choose GDP total under connections. Then under sheets drag the GDP total sheet into the white space underneath the energy box.
+The pop up window should already be populated with year one. Under data source and year GDP total under GDP total before adding any additional joins the data type for year GDP total needs to be changed. Will make its data type date just like we did with the other year columns.
+Now continue setting the join, choose the Venn diagram between energy and GDP total. Then add new join clause under year one.
+
+Links:
+Setting up data sources: https://help.tableau.com/current/pro/desktop/en-us/datasource_prepare.htm
+Regarding JOINS in Tableau: https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm
+Data Blending: blends allow you to query and aggregate data from multiple sources; https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm
+
+
+Week 3
+
+A dashboard is a tool that organizes information, typically from multiple data sets, into one central location for tracking, analysis, and simple visualization through charts, graphs, and maps. And just like filters and spreadsheets and queries. A dashboard filter is a tool for showing only the data that meets a specific criteria while hiding the rest.
+Data storytelling is communicating the meaning of a data set with visuals and a narrative that are customized for each particular audience
+Steps:
+These are: engage your audience, create compelling visuals, and tell the story in an interesting way.
+
+Engagement is capturing and holding someone's interest and attention.
+The second step is to create compelling visuals. In other words, you want to show the story of your data, not just tell it. Visuals should take your audience on a journey of how the data changed over time or highlight the meaning behind the numbers.
+Now, the third and final step is to tell the story in an interesting narrative. A narrative has a beginning, a middle, and an end. It should connect the data you've collected to the project objective and clearly explain important insights from your analysis.
+
+Soon you'll learn how to do that using slides for discussion during a meeting and a formal presentation
+
+A data analyst uses spotlighting to pinpoint the most relevant data derived from their analysis and eliminate the less important details. Spotlighting involves scanning the data to quickly identify the most important insights.
+
+But as you've been learning, dashboards aren't just for cars. Companies also use them to share information, get people engaged with business plans and goals, and uncover potential problems.
+
+After you decide what information should be on your dashboard, you might need to resize and reorganize it so it works better for your users. One option in Tableau is choosing between a vertical or horizontal layout. A vertical layout adjusts the height. A horizontal layout resizes the width of the views and objects it contains.
+
+Tiled items are part of a single-layer grid that automatically resizes based on the overall dashboard size. Floating items can be layered over other objects. In this example, the map and scatter plots are tiled—they don't overlap. This really helps make clear what the data is all about, which is valuable because the majority of people in the world are visual learners—they process information based on what they see.
+
+
+
+Static data involves providing screenshots or snapshots in presentations or building dashboards using snapshots of data. There are pros and cons to static data.
+
+PROS
+Can tightly control a point-in-time narrative of the data and insight
+Allows for complex analysis to be explained in-depth to a larger audience
+
+CONS
+Insight immediately begins to lose value and continues to do so the longer the data remains in a static state
+Snapshots can't keep up with the pace of data change
+
+
+
+
+
+Live data means that you can build dashboards, reports, and views connected to automatically updated data.
+
+PROS
+Dashboards can be built to be more dynamic and scalable
+Gives the most up-to-date data to the people who need it at the time when they need it
+Allows for up-to-date curated views into data with the ability to build a scalable “single source of truth” for various use cases
+Allows for immediate action to be taken on data that changes frequently
+Alleviates time/resources spent on processes for every analysis
+
+CONS
+Can take engineering resources to keep pipelines live and scalable, which may be outside the scope of some companies' data resource allocation
+Without the ability to interpret data, you can lose control of the narrative, which can cause data chaos (i.e. teams coming to conflicting conclusions based on the same data)
+Can potentially cause a lack of trust if the data isn’t handled properly
+
+
+Tableau lets you limit the data you see based on the criteria you specify. Maybe you want to filter data and the data set to show only the last six months, or maybe you want to see information from one particular customer.
+An important part of dashboard design is ensuring that charts, graphs, and other visual elements are cohesive. This means that they are balanced and make good use of available space.
+
+
+Excluding Data in Plots:
+To filter data points from the view, we can choose a single data point or click and drag in the view to select several points. Let's choose just one. Then on the tool tip that appears, we'll select "exclude" to hide it or we could have chosen to do it the other way by keeping only selected data points.
+
+Filtering in Tables:
+If your data is in a table, you can filter entire rows or columns from your view. To do this, we'll select the rows we want in the view. Then, on the tool tip that appears, we'll choose to keep only those countries. Again, we could have also selected the data points we wanted to exclude and picked that option instead.
+
+
+Creating your first Tableau dashboard
+Click add dashboard icon
+Now let's use these visualizations to create a dashboard, select add dashboard and add some visualizations. Drag the sheets onto the dashboard in a layout that you like. In this case, we'll add the map visualization from sheet one, on top of the line graph from sheet two.
+Start by finding sheet one in the sheets section on the left side of the screen, click and drag sheet one into the area that says drop sheets here, then click and drag sheet two onto the visualization. Notice that the visualization adjusts to show the layout depending on where you drag the sheet. Place sheet two so that it takes up the bottom half.
+
+To move a Legend:
+To simplify the visualization, our best choice is to delete the topmost legend, select it and click the X to remove it from the dashboard. Will set the remaining legends to float, click on a legend, then click the arrow pointing downwards for more options. From there, we'll select floating, drag the legend onto the top right corner of the map visualization. Then repeat these steps to float the remaining legend onto the top right corner of the bottom graph.
+
+Presentations:
+It starts with how you want to organize your data insights.
+The narrative you share with your stakeholders needs characters, a setting, a plot, a big reveal, and an "aha moment," just like any other story.
+The characters are the people affected by your story. This could be your stakeholders, customers, clients, and others.
+Next up is a setting, which describes what's going on, how often it's happening, what tasks are involved, and other background information about the data project that describes the current situation.
+The plot, sometimes called the conflict, is what creates tension in the current situation. This could be a challenge from a competitor, an inefficient process that needs to be fixed, or a new opportunity that the company just can't pass up. This complication of the current situation should reveal the problem your analysis is solving and compel the characters to act.
+The big reveal, or resolution, is how the data has shown that you can solve the problem the characters are facing by becoming more competitive, improving a process, inventing a new system, or whatever the ultimate goal of your data project may be.
+Finally, your "aha moment" is when you share your recommendations and explain why you think they'll help your company be successful.
+
+Themes are a great tool for this. They control the color, font types and sizes, formatting, and positioning of text and visuals. Some themes are fun or creative, while others have a more professional look. By choosing a theme that matches the tone and information you're communicating, your presentation will have a consistent look and support the argument you are trying to make.
+Next comes the title. It's good to include a title and subtitle that describe what you're about to present. You should include the date of your presentation too, especially if you're including data that's likely to change over time. Specifying a date, such as a "date created" or "date last updated," gives anyone viewing your presentation important context.
+A good slideshow guides the audience through your main communication points, but it doesn't repeat every word you say or give a lot of written information. Part of your job is to choose what information to include. This might be a description of what's being shown in a visual, the first step in a process, a set of directions, or an important message that you want to be sure your audience understands and remembers.
+A good rule is to keep texts to less than five lines and 25 words per slide.
+Now let's discuss visuals. Visuals help the audience quickly understand the content of each slide. They can help you make a point in a way that words might not be able to alone. Great visuals don't leave room for interpretation because the meaning is instantly understood. When you include visuals on a slide, try not to share too many details all at once.
+
+When you copy and paste a visual into your presentation, you can edit it directly within your slideshow. If your visual or its data points exist in other places, such as a Tableau dashboard, any changes you make will not affect them there. Now, this also means your visuals won't be updated if the original dataset changes. This means your visual might not be reflecting the latest information, but if you link your visual within your presentation, the visual lives within its original file, and the slideshow connects to it with the visual's URL. Because the two files are now linked, when you make changes to the original file, say a spreadsheet, the changes will automatically appear in your presentation. This can be useful if the data is likely to change over time. Your slideshow will always be up-to-date.
+Finally, an embedded object also lives in the original source file, but the difference is that it doesn't get automatically updated if the source file changes. The embedded copy is completely independent. Similarly, you can make changes to it in your presentation without affecting the visual or data points from the original source file. The main difference between pasted, linked, and embedded objects has to do with where you store them and how you update them after you place them in your slideshow.
+
+A data analyst wants to save stakeholders time and effort when working with a Tableau dashboard. They also want to direct stakeholders to the most important data. What process can they use to achieve both goals? -> Prefiltering
+
+
+
+Week 4
+
+To make your data findings accessible to your audience, you'll need a framework to guide your presentation.
+This helps to create logical connections that tie back to the business tasks and metrics. As a quick reminder, the business task is the question or problem. your data analysis answers. The framework you choose gives your audience context to better understand your data.
+On top of that, it helps keep you focused on the most important information during your presentation.
+The framework for your presentation starts with your understanding of the business task. Raw data doesn't mean much to most people, but if you present your data in the context of the business task, your audience will have a much easier time connecting with it.
+
+Now let's talk about how you work data into your presentations to help your audience better understand and interpret your findings.
+First, it's helpful for your audience to understand what data was available during data collection. You can also tell them if any new relevant data has come up, or if you discovered that you need different data.
+Next, you'll want to establish the initial hypothesis. Your initial hypothesis is a theory you're trying to prove or disprove with data. In this example, our business task was to compile average monthly prices.
+You want to establish your hypothesis early in the presentation. That way, when you present your data, your audience has the right context to put it in.
+
+The McCandless Method
+
+As you look at examples in the next section of this activity, ask yourself: How do these presentations use the McCandless method?
+
+As a refresher, the McCandless method is a set of guidelines for presentations. It suggests that you start with broad, general ideas and then work your way into the details.
+
+The steps of the McCandless method include:
+
+1. Introduce the graphic by name
+
+2. Answer obvious questions before they’re asked
+
+3. State the insight of your graphic
+
+4. Call out data to support that insight
+
+5. Tell your audience why it matters
+
+
+Glossary Terms:
+
+A/B testing: The process of testing two variations of the same web page to determine which page is more successful at attracting user traffic and generating revenue
+Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied
+Access control: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet
+Accuracy: The degree to which data conforms to the actual entity being measured or described
+Action-oriented question: A question whose answers lead to change
+Administrative metadata: Metadata that indicates the technical source of a digital asset
+Agenda: A list of scheduled appointments
+Aggregation: The process of collecting or gathering many separate pieces into a whole
+Algorithm: A process or set of rules followed for a specific task
+Aliasing: Temporarily naming a table or column in a query to make it easier to read and write
+Alternative text: Text that provides an alternative to non-text content, such as images and videos
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Annotation: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
+Area chart: A data visualization that uses individual data points for a changing variable connected by a continuous line with a filled in area underneath
+Array: A collection of values in spreadsheet cells
+Attribute: A characteristic or quality of data used to label a column in a table
+Audio file: Digitized audio storage usually in an MP3, AAC, or other compressed format
+AVERAGE: A spreadsheet function that returns an average of the values from a selected range
+AVERAGEIF: A spreadsheet function that returns the average of all cell values from a given range that meet a specified condition
+Bad data source: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC)
+Balance: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
+Bar graph: A data visualization that uses size to contrast and compare two or more values
+Bias: A conscious or subconscious preference in favor of or against a person, group of people, or thing
+Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
+Boolean data: A data type with only two possible values, usually true or false
+Borders: Lines that can be added around two or more cells on a spreadsheet
+Box plot: A data visualization that displays the distribution of values along an x-axis
+Bubble chart: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size
+Bullet graph: A data visualization that displays data as a horizontal bar chart moving toward a desired value
+Business metric: A standard of measurement used to solve a business task
+Business task: The question or problem data analysis resolves for a business
+Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
+Calculus: A branch of mathematics that involves the study of rates of change and the changes between values that are related by a function
+CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
+CAST: A SQL function that converts data from one datatype to another
+Causation: When an action directly leads to an outcome, such as a cause-effect relationship
+Cell reference: A cell or a range of cells in a worksheet typically used in formulas and functions
+Changelog: A file containing a chronologically ordered list of modifications made to a project
+Channel: A visual aspect or variable that represents characteristics of the data in a visualization
+Chart: A graphical representation of data from a worksheet
+Circle view: A data visualization that shows comparative strength in data
+Clean data: Data that is complete, correct, and relevant to the problem being solved
+Cloud: A place to keep data online, rather than a computer hard drive
+Cluster: A collection of data points on a data visualization with similar values
+COALESCE: A SQL function that returns non-null values in a list
+Column chart: A data visualization that uses individual data points for a changing variable, represented as vertical columns
+Combo chart: A data visualization that combines more than one visualization type
+Compatibility: How well two or more datasets are able to work together
+Completeness: The degree to which data contains all desired components or measures
+CONCAT: A SQL function that adds strings together to create new text strings that can be used as unique keys
+CONCATENATE: A spreadsheet function that joins together two or more text strings
+Conditional formatting: A spreadsheet tool that changes how cells appear when values meet specific conditions
+Confidence interval:  A range of values that conveys how likely a statistical estimate reflects the population
+Confidence level: The probability that a sample size accurately reflects the greater population
+Confirmation bias: The tendency to search for or interpret information in a way that confirms pre-existing beliefs
+Consent: The aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it
+Consistency: The degree to which data is repeatable from different points of entry or collection
+Context: The condition in which something exists or happens
+Continuous data: Data that is measured and can have almost any numeric value
+CONVERT: A SQL function that changes the unit of measurement of a value in data
+Cookie: A small file stored on a computer that contains information about its users
+Correlation: The measure of the degree to which two variables change in relationship to each other
+COUNT: A spreadsheet function that counts the number of cells within a range that meet a specified condition
+COUNTA: A spreadsheet function that counts the total number of values within a range that meet specified criteria
+COUNTIF: A spreadsheet function that returns the number of cells in a range that match a specified value
+COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
+CREATE TABLE: A SQL clause that adds a temporary table to a database that can be used by multiple people
+Cross-field validation: A process that ensures certain conditions for multiple data fields are satisfied
+CSV (comma-separated values) file: A delimited text file that uses a comma to separate values
+Currency: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
+Dashboard: A tool that monitors live, incoming data
+Dashboard filter: A tool for showing only the data that meets a specific criteria while hiding the rest
+Data: A collection of facts
+Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data anonymization: The process of protecting people's private or sensitive data by eliminating identifying information
+Data blending: A Tableau method that combines data from multiple data sources
+Data bias: When a preference in favor of or against a person, group of people, or thing systematically skews data analysis results in a certain direction
+Data composition: The process of combining the individual parts in a visualization and displaying them together as a whole
+Data constraints: The criteria that determine whether a piece of a data is clean and valid
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data element: A piece of information in a dataset
+Data engineer: A professional who transforms data into a useful format for analysis and gives it a reliable infrastructure
+Data ethics: Well-founded standards of right and wrong that dictate how data is collected, shared, and used
+Data governance: A process for ensuring the formal management of a company’s data assets
+Data-inspired decision-making: Exploring different data sources to find out what they have in common
+Data integrity: The accuracy, completeness, consistency, and trustworthiness of data throughout its life cycle
+Data interoperability: The ability to integrate data from multiple sources and a key factor leading to the successful use of open data among companies and governments
+Data life cycle: The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
+Data manipulation: The process of changing data to make it more organized and easier to read
+Data mapping: The process of matching fields from one data source to another
+Data merging: The process of combining two or more datasets into a single dataset
+Data model: A tool for organizing data elements and how they relate to one another
+Data privacy: Preserving a data subject’s information any time a data transaction occurs
+Data range: Numerical values that fall between predefined maximum and minimum values
+Data replication: The process of storing data in multiple locations
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data security: Protecting data from unauthorized access or corruption by adopting safety measures
+Data storytelling: Communicating the meaning of a dataset with visuals and a narrative that are customized for an audience
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data transfer: The process of copying data from a storage device to computer memory or from one computer to another
+Data type: An attribute that describes a piece of data based on its values, its programming language, or the operations it can perform
+Data validation: A tool for checking the accuracy and quality of data
+Data validation process: The process of checking and rechecking the quality of data so that it is complete, accurate, secure and consistent
+Data visualization: The graphical representation of data
+Data warehousing specialist: A professional who develops processes and procedures to effectively store and organize data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+DATEDIF: A spreadsheet function that calculates the number of days, months, or years between two dates
+Decision tree: A tool that helps analysts make decisions about critical features of a visualization
+Delimiter: A character that indicates the beginning or end of a data item
+Density map: A data visualization that represents concentrations, with color representing the number or frequency of data points in a given area on a map
+Descriptive metadata: Metadata that describes a piece of data and can be used to identify it at a later point in time
+Design thinking: A process used to solve complex problems in a user-centric way
+Digital photo: An electronic or computer-based image usually in BMP or JPG format
+Dirty data: Data that is incomplete, incorrect, or irrelevant to the problem to be solved
+Discrete data: Data that is counted and has a limited number of values
+DISTINCT: A keyword that is added to a SQL SELECT statement to retrieve only non-duplicate entries
+Distribution graph: A data visualization that displays the frequency of various outcomes in a sample
+Diverging color palette: A color theme that displays two ranges of data values using two different hues, with color intensity representing the magnitude of the values
+Donut chart: A data visualization where 2D or 3D proportions (segments) of a ring- or O-shape represent data values adding up to a whole or 100%
+DROP TABLE: A SQL clause that removes a temporary table from a database
+Duplicate data: Any record that inadvertently shares data with another record
+Dynamic visualizations: Data visualizations that are interactive or change over time
+Emphasis: The design principle of arranging visual elements to focus the audience’s attention on important information in a data visualization
+Engagement: Capturing and holding someone’s interest and attention during a data presentation
+Equation: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
+Estimated response rate: The average number of people who typically complete a survey
+Ethics: Well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness, or specific virtues
+Experimenter bias: The tendency for different people to observe things differently (Refer to Observer bias)
+External data: Data that lives, and is generated, outside of an organization
+Fairness: A quality of data analysis that does not create or reinforce bias
+Field: A single piece of information from a row or column of a spreadsheet; in a data table, typically a column in the table
+Field length: A tool for determining how many characters can be keyed into a spreadsheet field
+Fill handle: A box in the lower-right-hand corner of a selected spreadsheet cell that can be dragged through neighboring cells in order to continue an instruction
+Filled map: A data visualization that colors areas in a map based on measurements or dimensions
+Filtering: The process of showing only the data that meets a specified criteria while hiding the rest
+Find and replace: A tool that finds a specified search term and replaces it with something else
+First-party data: Data collected by an individual or group using their own resources
+Float: A number that contains a decimal
+Foreign key: A field within a database table that is a primary key in another table (Refer to primary key)
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Framework: The context a presentation needs to create logical connections that tie back to the business task and metrics
+FROM: The section of a query that indicates from which table(s) to extract the data
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gantt chart: A data visualization that displays the duration of events or activities on a timeline
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Gauge chart: A data visualization that shows a single result within a progressive range of values
+General Data Protection Regulation of the European Union (GDPR): Policy-making body in the European Union created to help protect people and their data
+Geolocation: The geographical location of a person or device by means of digital information
+Good data source: A data source that is reliable, original, comprehensive, current, and cited (ROCCC)
+GROUP BY: A SQL clause that groups rows that have the same values from a table into summary rows
+HAVING: A SQL clause that adds a filter to a query instead of the underlying table that can only be used with aggregate functions
+Header: The first row in a spreadsheet that labels the type of data in each column
+Headline: Text at the top of a visualization that communicates the data being presented
+Heat map: A data visualization that uses color contrast to compare categories in a dataset
+Highlight table: A data visualization that uses conditional formatting and color on a table
+Histogram: A data visualization that shows how often data values fall into certain ranges
+Hypothesis: A theory that one might try to prove or disprove with data
+Hypothesis testing: A process to determine if a survey or experiment has meaningful results
+Incomplete data: Data that is missing important fields
+Inconsistent data: Data that uses different formats to represent the same thing
+Incorrect/inaccurate data: Data that is complete but inaccurate
+INNER JOIN : A SQL function that returns records with matching values in both tables
+Inner query: A SQL subquery that is inside of another SQL statement
+Internal data: Data that lives within a company’s own systems
+Interpretation bias: The tendency to interpret ambiguous situations in a positive or negative way
+JOIN: A SQL function that is used to combine rows from two or more tables based on a related column
+Label: Text in a visualization that identifies a value or describes a scale
+Leading question: A question that steers people toward a certain response
+LEFT: A function that returns a set number of characters from the left side of a text string
+LEFT JOIN: A SQL function that will return all the records from the left table and only the matching records from the right table
+Legend: A tool that identifies the meaning of various elements in a data visualization
+LEN: A function that returns the length of a text string by counting the number of characters it contains
+Length: The number of characters in a text string
+LIMIT: A SQL clause that specifies the maximum number of records returned in a query
+Line graph: A data visualization that uses one or more lines to display shifts or changes in data over time
+Live data: Data that is automatically updated
+Long data: A dataset in which each row is one time point per subject, so each subject has data in multiple rows
+Mandatory: A data value that cannot be left blank or empty
+Map: A data visualization that organizes data geographically
+Margin of error: The maximum amount that sample results are expected to differ from those of the actual population
+Mark: A visual object in a data visualization such as a point, line, or shape
+MATCH: A spreadsheet function used to locate the position of a specific lookup value
+Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called an equation)
+Math function: A function that is used as part of a mathematical formula
+MAX: A function that returns the largest numeric value from a range of cells
+MAXIFS: A spreadsheet function that returns the maximum value from a given range that meets a specified condition
+McCandless Method: A method for presenting data visualizations that moves from general to specific information
+Measurable question: A question whose answers can be quantified and assessed
+Mental model: A data analyst’s thought process and approach to a problem
+Mentor: Someone who shares knowledge, skills, and experience to help another grow both professionally and personally
+Merger: An agreement that unites two organizations into a single new one
+Metadata: Data about data
+Metadata repository: A database created to store metadata
+Metric: A single, quantifiable type of data that is used for measurement
+Metric goal: A measurable goal set by a company and evaluated using metrics
+MID: A function that returns a segment from the middle of a text string
+MIN: A spreadsheet function that returns the smallest numeric value from a range of cells
+MINIFS: A spreadsheet function that returns the minimum value from a given range that meets a specified condition
+Modulo: An operator (%) that returns the remainder when one number is divided by another
+Movement: The design principle of arranging visual elements to guide the audience’s eyes from one part of a data visualization to another
+Naming conventions: Consistent guidelines that describe the content, creation date, and version of a file in its name
+Narrative: (Refer to story)
+Networking: Building relationships by meeting people both in person and online
+Nominal data: A type of qualitative data that is categorized without a set order
+Normalized database: A database in which only related data is stored in each table
+Notebook: An interactive, editable programming environment for creating data reports and showcasing data skills
+Null: An indication that a value does not exist in a dataset
+Observation: The attributes that describe a piece of data contained in a row of a table
+Observer bias: The tendency for different people to observe things differently (also called experimenter bias)
+Open data: Data that is available to the public
+Openness: The aspect of data ethics that promotes the free access, usage, and sharing of data
+Operator: A symbol that names the operation or calculation to be performed
+ORDER BY: A SQL clause that sorts results returned in a query
+Order of operations: Using parentheses to group together spreadsheet values in order to clarify the order in which operations should be performed
+Ordinal data: Qualitative data with a set order or scale
+Outdated data: Any data that has been superseded by newer and more accurate information
+OUTER JOIN: A SQL function that combines RIGHT and LEFT JOIN to return all matching records in both tables
+Outer query: A SQL statement containing a subquery
+Ownership: The aspect of data ethics that presumes individuals own the raw data they provide and have primary control over its usage, processing, and sharing
+Packed bubble chart: A data visualization that displays data in clustered circles
+Pattern: The design principle of using similar visual elements to demonstrate trends and relationships in a data visualization
+Pie chart: A data visualization that uses segments of a circle to represent the proportions of each data category compared to the whole
+Pivot chart: A chart created from the fields in a pivot table
+Pivot table: A data summarization tool used to sort, reorganize, group, count, total, or average data
+Pixel: In digital imaging, a small area of illumination on a display screen that, when combined with other adjacent areas, forms a digital image
+Population: In data analytics, all possible data values in a dataset
+Pre-attentive attributes: The elements of a data visualization that an audience recognizes automatically without conscious effort
+Primary key: An identifier in a database that references a column in which each value is unique (Refer to foreign key)
+Problem domain: The area of analysis that encompasses every activity affecting or affected by a problem
+Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+Profit margin: A percentage that indicates how many cents of profit has been generated for each dollar of sale
+Professional relationship building: Building relationships by meeting people both in person and online (Refer to Networking)
+Proportion: The design principle of using the relative size and arrangement of visual elements to demonstrate information in a data visualization
+Qualitative data: A subjective and explanatory measure of a quality or characteristic
+Quantitative data: A specific and objective measure, such as a number, quantity, or range
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+R: A programming language used for statistical analysis, visualization, and other data analysis
+Random sampling: A way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen
+Range: A collection of two or more cells in a spreadsheet
+Ranking: A system to position values of a dataset within a scale of achievement or status
+Record: A collection of related data in a data table, usually synonymous with row
+Redundancy: When the same piece of data is stored in two or more places
+Reframing: The process of restating a problem or challenge, then redirecting it toward a potential resolution
+Regular expression (RegEx): A rule that says the values in a table must match a prescribed pattern
+Relational database: A database that contains a series of tables that can be connected to form relationships
+Relativity: The process of considering observations in relation or proportion to something else
+Relevant question: A question that has significance to the problem to be solved
+Remove duplicates: A spreadsheet tool that automatically searches for and eliminates duplicate entries from a spreadsheet
+Repetition: The design principle of repeating visual elements to demonstrate meaning in a data visualization
+Report: A static collection of data periodically given to stakeholders
+Return on investment (ROI): A formula that uses the metrics of investment and profit to evaluate the success of an investment
+Revenue: The total amount of income generated by the sale of goods or services
+Rhythm: The design principle of creating movement and flow in a data visualization to engage an audience
+RIGHT: A function that returns a set number of characters from the right side of a text string
+RIGHT JOIN: A SQL function that will return all records from the right table and only the matching records from the left.
+Root cause: The reason why a problem occurs
+ROUND: A SQL function that returns a number rounded to a certain number of decimal places.
+Sample: In data analytics, a segment of a population that is representative of the entire population
+Sampling bias: Overrepresenting or underrepresenting certain members of a population as a result of working with a sample that is not representative of the population as a whole
+Scatter plot: A data visualization that represents relationships between different variables with individual data points without a connecting line
+Schema: A way of describing how something, such as data, is organized
+Scope of work (SOW): An agreed-upon outline of the tasks to be performed during a project
+Second-party data: Data collected by a group directly from its audience and then sold
+SELECT: The section of a query that indicates from which column(s) to extract the data
+SELECT INTO: A SQL clause that copies data from one table into a temporary table without adding the new table to the database
+Small data: Small, specific data points typically involving a short period of time, which are useful for making day-to-day decisions
+SMART methodology: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+Social media: Websites and applications through which users create and share content or participate in social networking
+Soft skills: Nontechnical traits and behaviors that relate to how people work
+Sort range: A spreadsheet menu function that sorts a specified range and preserves the cells outside the range
+Sort sheet: A spreadsheet menu function that sorts all data by the ranking of a specific sorted column and keeps data together across rows
+Sorting: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
+Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+SPLIT: A spreadsheet function that divides text around a specified character and puts each fragment into a new, separate cell
+Sponsor: A professional advocate who is committed to moving forward the career of another
+Spotlightling: Scanning through data to quickly identify the most important insights
+Spreadsheet: A digital worksheet
+SQL: (Refer to Structured Query Language)
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Static data: Data that doesn’t change once it has been recorded
+Static visualization: A data visualization that does not change over time unless it is edited
+Statistical power: The probability that a test of significance will recognize an effect that is present
+Statistical significance: The probability that sample results are not due to random chance
+Statistics: The study of how to collect, analyze, summarize, and present data
+Story: The narrative of a data presentation that makes it meaningful and interesting
+String data type: A sequence of characters and punctuation that contains textual information (also called text data type)
+Structural metadata: Metadata that indicates how a piece of data is organized and whether it is part of one or more than one data collection
+Structured data: Data organized in a certain format such as rows and columns
+Structured Query Language: A computer programming language used to communicate with a database
+Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+Subquery: A SQL query that is nested inside a larger query
+SUBSTR: A SQL function that extracts a substring from a string variable
+Substring: A subset of a text string
+Subtitle: Text that supports a headline by adding context and description
+SUM: A spreadsheet function that adds the values of a selected range of cells
+SUMIF: A spreadsheet function that adds numeric data based on one condition
+Summary table: A table used to summarize statistical information about data
+SUMPRODUCT: A function that multiplies arrays and returns the sum of those products
+Symbol map: A data visualization that displays a mark over a given longitude and latitude
+Syntax: The predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement
+Tableau: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Temporary table: A database table that is created and exists temporarily on a database server
+Text data type: A sequence of characters and punctuation that contains textual information (also called string data type)
+Text string: A group of characters within a cell, most often composed of letters
+Third-party data: Data provided from outside sources who didn’t collect it directly
+Time-bound question: A question that specifies a timeframe to be studied
+Transaction transparency: The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data
+Transferable skills: Skills and qualities that can transfer from one job or industry to another
+TRIM: A function that removes leading, trailing, and repeated spaces in data
+Turnover rate: The rate at which employees voluntarily leave a company
+Typecasting: Converting data from one type to another
+Unbiased sampling: When the sample of the population being measured is representative of the population as a whole
+Underscores: Lines used to underline words and connect text characters
+Unfair question: A question that makes assumptions or is difficult to answer honestly
+Unique: A value that can’t have a duplicate
+United States Census Bureau: An agency in the U.S. Department of Commerce that serves as the nation’s leading provider of quality data about its people and economy
+Unity: The design principle of using visual elements that complement each other to create aesthetic appeal and clarity in a data visualization
+Unstructured data: Data that is not organized in any easily identifiable manner
+Validity: The degree to which data conforms to constraints when it is input, collected, or created
+VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value
+Variety: The design principle of using different kinds of visual elements in a data visualization to engage an audience
+Verification: A process to confirm that a data-cleaning effort was well executed and the resulting data is accurate and reliable
+Video file: A collection of images, audio files, and other data usually encoded in a compressed format such as MP4, MV4, MOV, AVI, or FLV
+Visual form: The appearance of a data visualization that gives it structure and aesthetic appeal
+Visualization: (Refer to Data visualization)
+VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to return a corresponding piece of information
+WHERE: The section of a query that specifies criteria that the requested data must meet
+Wide data: A dataset in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject
+WITH: A SQL clause that creates a temporary table that can be queried multiple times
+World Health Organization: An organization whose primary role is to direct and coordinate international health within the United Nations system
+X-axis: The horizontal line of a graph usually placed at the bottom, which is often used to represent time scales and discrete categories
+Y-axis: The vertical line of a graph usually placed to the left, which is often used to represent frequencies and other numerical variables

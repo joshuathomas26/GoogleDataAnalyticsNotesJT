@@ -1,0 +1,495 @@
+> print("To print")
+> ?function_name() to figure out the function
+
+When naming a variable in R, you can use a short phrase. A variable name should start with a letter and can also contain numbers and underscores.
+
+# for comments
+
+assignment operator in r is "<-" instead of "="
+
+Simply put, a vector is a group of data elements of the same type stored in a sequence in R.
+Use the combine function-----> c(val1, val2, etc.)
+
+A pipe is a tool in R for expressing a sequence of multiple operations
+A pipe is represented by a % sign, followed by a &gt; sign, and another % sign.
+
+There are six primary types of atomic vectors: logical, integer, double, character (which contains strings), complex, and raw. The last two–complex and raw–aren’t as common in data analysis, so we will focus on the first four. Together, integer and double vectors are known as numeric vectors because they both contain numbers.
+You can determine what type of vector you are working with by using the typeof() function
+
+Lists are different from atomic vectors because their elements can be of any type—like dates, data frames, vectors, matrices, and more. Lists can even contain other lists.
+You can create a list with the list(val1, val2, "val3", TRUE, .....) function
+Lists can store different types of elements, like chars, integers, doubles, etc.
+Like we already mentioned, lists can contain other lists. If you want, you can even store a list inside a list inside a list—and so on.
+list(list(list(1 , 3, 5)))
+If you want to find out what types of elements a list contains, you can use the str() function
+
+z <- list(list(list(1 , 3, 5)))
+
+Let’s run the function.
+
+str(z)
+
+#> List of 1
+
+#>  $ :List of 1
+
+#>   ..$ :List of 3
+
+#>   .. ..$ : num 1
+
+#>   .. ..$ : num 3
+
+#>   .. ..$ : num 5
+
+The indentation of the $ symbols reflect the nested structure of this list. Here, there are three levels (so there is a list within a list within a list).
+
+use the install.packages() function to install packages
+Ex: install.packages("tidyverse")
+
+Load a package with the library function
+Ex: library(tidyverse)
+
+
+In R, there are three types of data that refer to an instant in time:
+
+A date ("2016-08-16")
+A time within a day (“20:11:59 UTC")
+And a date-time. This is a date plus a time ("2018-03-31 18:15:48 UTC")
+
+For example, to get the current date you can run the today() function. The date appears as year, month, and day.
+
+Date/time data often comes as strings. You can convert strings into dates and date-times using the tools provided by lubridate. These tools automatically work out the date/time format. First, identify the order in which the year, month, and day appear in your dates. Then, arrange the letters y, m, and d in the same order.
+ymd("2021-01-20")
+
+When you run the function, R returns the date in yyyy-mm-dd format.
+
+#> [1] "2021-01-20"
+
+It works the same way for any order. For example, month, day, and year. R still returns the date in yyyy-mm-dd format.
+
+mdy("January 20th, 2021")
+
+#> [1] "2021-01-20"
+
+Or, day, month, and year. R still returns the date in yyyy-mm-dd format.
+
+dmy("20-Jan-2021")
+
+#> [1] "2021-01-20"
+
+These functions also take unquoted numbers and convert them into the yyyy-mm-dd format.
+
+ymd(20210120)
+
+#> [1] "2021-01-20"
+
+h, m, and s (hours, minutes, seconds) can be added to the date functions
+(Note: use an underscore)
+ymd_hms("2021-01-20 20:11:59")
+
+#> [1] "2021-01-20 20:11:59 UTC"
+
+
+A data frame is a collection of columns–similar to a spreadsheet or SQL table. Each column has a name at the top that represents a variable, and includes one observation per row. Data frames help summarize data and organize it into a format that is easy to read and use.
+If you need to manually create a data frame in R, you can use the data.frame() function. The data.frame() function takes vectors as input.
+EX)
+data.frame(x = c(1, 2, 3) , y = c(1.5, 5.5, 7.5))
+the x column is a vector with elements 1, 2, 3, and the y column is a vector with elements 1.5, 5.5, 7.5.
+   x y
+
+1  1 1.5
+
+2  2 5.5
+
+3  3 7.5
+
+
+Use the dir.create function to create a new folder, or directory, to hold your files. Place the name of the folder in the parentheses of the function.
+
+dir.create ("destination_folder")
+
+
+Use the file.create() function to create a blank file.
+file.create (“new_text_file.txt”)
+
+file.create (“new_word_file.docx”)
+
+file.create (“new_csv_file.csv”)
+
+
+Copying a file can be done using the file.copy() function.
+file.copy (“new_text_file.txt” , “destination_folder”)
+
+To create a matrix in R, you can use the matrix() function. The matrix() function has two main arguments that you enter in the parentheses. First, add a vector. The vector contains the values you want to place in the matrix. Next, add at least one matrix dimension. You can choose to specify the number of rows or the number of columns by using the code nrow = or ncol =.
+matrix(c(3:8), nrow = 2)
+    [,1] [,2] [,3]
+
+[1,]    3    5    7
+
+[2,]    4    6    8
+
+ou can also choose to specify the number of columns (ncol = ) instead of the number of rows (nrow = ).
+
+matrix(c(3:8), ncol = 2)
+
+When you run the function, R infers the number of rows automatically.
+
+    [,1] [,2]
+
+[1,]    3    6
+
+[2,]    4    7
+
+[3,]    5    8
+
+
+
+Logical operators return a logical data type such as TRUE or FALSE.
+
+There are three primary types of logical operators:
+
+AND (sometimes represented as & or && in R)
+
+OR (sometimes represented as | or || in R)
+
+NOT (!)
+
+
+
+
+
+
+if (condition1) {
+
+ expr1
+
+} else if (condition2) {
+
+ expr2
+
+} else {
+
+ expr3
+
+}
+
+
+
+Packages in R include reusable R functions, documentation about how to use the functions, sample datasets, and tests for checking your code.
+R Packages: https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
+
+Tidyverse is actually a collection of packages in R with a common design philosophy for data manipulation, exploration, and visualization. Using tidyverse can help you work your way through pretty much the entire data analysis process. The packages in tidyverse work together natural
+CRAN makes sure any R content open to the public meets the required quality standards. So, if it's sourced through CRAN, you can feel good that the package is authentic and valid.
+
+CRAN is a commonly used online archive with R packages and other R resources. CRAN makes sure that the R resources it shares follow the required quality standards and are authentic and valid.
+The packages ggplot2, tidyr, dplyr, and forcats are part of a collection of eight core tidyverse packages. The other core packages are: tibble, readr, purrr, and stringr.
+The installed.packages() function shows a list of packages currently installed in an RStudio session. You can then locate the names of the packages and what’s needed to use functions from the package.
+
+Well, it depends, but there's four packages that are an essential part of the workflow for data analysts: ggplot2, dplyr, tidyr and readr.
+Ggplot2 is used for data visualization, specifically plots. With ggplot2, you can create a variety of data viz by applying different visual properties to the data variables. Here's an example of ggplot2 in action. You'll have your own chance to use ggplot2 later. Tidyr is a package used for data cleaning to make tidy data. We covered tidy or clean data earlier, but as a quick reminder, it's data where every part of a data table or data frame is the right type in the right place. Tidyr works with wide and long data to make sure this happens. Next, we have readr, which is used for importing data. The most common function from readr is read_csv. This will import a CSV file into R.
+Dplyr offers a consistent set of functions that help you complete some common data manipulation tasks.
+Forcats provides tools that solve common problems with factors. As a quick reminder, factors store categorical data in R where the data values are limited and usually based on a finite group like country or year.
+
+To load any dataset already installed, we use the data function. We then add the name of the dataset, ToothGrowth. Now that the data is loaded, we can check it out with the View function. Notice how View begins with a capital V. It's a good reminder that functions and variables are case- sensitive in R. In a script we use the Run button to run our code. The return usually shows up in the console. But with View, a new tab appears in the script showing the contents of the dataset.
+pipe: &>&, Command + shift + m
+
+
+Before we can start cleaning and organizing our data or even check it for bias, we need to get our data into a usable format. This is where data frames come in
+First, let's talk about what a data frame is. A data frame is a collection of columns. It's a lot like a spreadsheet or a SQL table.
+We use data frames for a lot of the same reasons as tables too. They help summarize data and put it into a format that's easy to read and use.
+First, columns should be named. Using empty column names can create problems with your results later on.
+Next, it's important to know that the data stored in your data frame can be many different types, like numeric, factor, or character. Often data frames contain dates, time stamps and logical vectors.
+Often data frames contain dates, time stamps and logical vectors.
+Finally, each column should contain the same number of data items, even if some of those data items are missing.
+
+In the tidyverse, tibbles are like streamlined data frames. They make working with data easier, but they're a little different from standard data frames.
+First, tibbles never change the data types of the inputs. They won't change your strings to factors or anything else.
+This saves time because you won't have to do as much cleaning or changing data types in tibbles.
+Tibbles also never change the names of your variables, and they never create row names.
+Finally, tibbles make printing in R easier. They won't accidentally overload your console because they're automatically set to pull up only the first 10 rows and as many columns as fit on screen.
+
+Data frames and tibbles are the building blocks for analysis in R
+These characteristics make it easier to share your data and reproduce your analysis.
+
+install.packages("tidyverse")
+library(tidyverse)
+data(add_data) > load dataset
+View(data_added)
+
+skim_without_charts(data) -> summary of data
+head(data)  -> first 6 rows
+glimpse(data)  -> structure of data
+str(data) > structure of data
+colnames(data) > column names present in data
+To get snapshot of dataframe
+
+mutate(data, new_column_to_add = formula) -> adds a column
+
+Creating a tibble with existing data:
+as_tibble(data)
+
+readr functions
+The goal of readr is to provide a fast and friendly way to read rectangular data. readr supports several read_ functions. Each function refers to a specific file format.
+(***Parameter for these functions is the path of the file)
+read_csv(): comma-separated values (.csv) files
+read_tsv(): tab-separated values files
+read_delim(): general delimited files
+read_fwf(): fixed-width files
+read_table(): tabular files where columns are separated by white-space
+read_log(): web log files
+
+select(column_name) > select that column
+select(-column_name) -> select every column but that
+
+rename(column = new_name)
+
+// Renaming columns so they are formatted similarly
+rename_with(data, toupper(or tolower)) // makes column names upper or lowercase
+
+clean_names(data) -> ensures only characters, numbers, and underscores in name
+
+
+
+Filename Conventions
+Don't
+Use unnecessary additional characters in filenames
+Use spaces or “illegal” characters; examples: &, %, #, <, or >
+Start or end your filename with a symbol
+Use incomplete or inconsistent date formats; example: M-D-YY
+Use filenames for related files that do not work well with default ordering; examples: a random system of numbers or date formats, or using letters first
+
+
+We can use the arrange function to choose which variable we want to sort by,
+arrange((add a - sign for descending order) column_name)
+returns a tibble
+
+group_by(columnname, ...) for grouping by a certain column and then perform an operation on those groups
+drop_na() -> It's useful doing a group level summary statistic like this but it will remove rows from the data.
+summarize(new_temp_column = formula) -> gives a tibble of that
+--- Within summarize, you can use mean, max, min, etc functions to understand data
+
+filter( column_name == condition) -> to filter data by a certain condition
+
+Example of manually creating a dataframe
+
+id <- c(1:10)
+
+name <- c("John Mendes", "Rob Stewart", "Rachel Abrahamson", "Christy Hickman", "Johnson Harper", "Candace Miller", "Carlson Landy", "Pansy Jordan", "Darius Berry", "Claudia Garcia")
+
+job_title <- c("Professional", "Programmer", "Management", "Clerical", "Developer", "Programmer", "Management", "Clerical", "Developer", "Programmer")
+
+employee <- data.frame(id, name, job_title) //makes the dataframe
+
+Note: use pipes %>% to combine multiple commands on one line for efficiency!
+
+To separate an existing column into multiple columns, use the separate function
+separate(data, column, into = c("new_column_name1", "new_column_nameN"), sep = 'HOW TO KNOW WHEN TO SEPARATE')
+
+Opposite of separate() is unite()
+unite(data, column, col1_to_combine, col_n_to_combine, sep = 'How to separate newly combined data') to combine two columns
+
+
+
+When organizing or tidying your data using R, you might need to convert wide data to long data or long to wide.
+Wide data has observations across several columns. Each column contains data from a different condition of the variable. In this example, different years.
+long data has all the observations in a single column, and variables in separate columns.
+
+That’s where pivot_longer()comes in. As part of the tidyr package, you can use this R function to lengthen the data in a data frame by increasing the number of rows and decreasing the number of columns. Similarly, if you want to convert your data to have more columns and fewer rows, you would use the pivot_wider() function.
+
+Use summarize(mean(column), max(column), etc) to get tidbits of info regarding columns in a tibble
+Use cor(var1, var2) for correlation --> useful
+
+
+Basically the bias function finds the average amount that the actual outcome is greater than the predicted outcome. It's included in the sim design package.
+If the model is unbiased, the outcome should be pretty close to zero. A high result means that your data might be biased
+EX)
+Let's say we're working with a local weather channel to determine if their weather predictions are biased. First we need to install and load a package called Sim design.
+We'll use the bias function to compare forecasted temperatures with actual temperatures. For this example we'll just take a small sample of our weather data and input them here. We'll label this the actual temp.
+actual_temp <- c(values)
+predictions <- c(values)
+bias(actual_temp, predictions)
+
+In R, the sample() function allows you to take a random sample of elements from a data set. Adding this piece of code shuffled the rows in our data set randomly. So when we presented the ads to users, the positions of the ads were now random and controlled for bias.
+
+
+
+Visualizations in R
+General-purpose packages like Plotly let you do a wide range of visualization functions. Others like RGL, focus on specific solutions like 3D visuals. Some of the most popular include ggplot2, Plotly, Lattice, RGL, Dygraphs, Leaflet, Highcharter, Patchwork, gganimate and ggridges. Personally, ggplot2 is my favorite for data analysis. It's both powerful and flexible.
+
+In ggplot2 an aesthetic is a visual property of an object in your plot. For example, in a scatter plot aesthetics include things like the size, shape or color of your data points.
+
+A geom refers to the geometric object used to represent your data.
+For example, you can use points to create a scatter plot, bars to create a bar chart, or lines to create a line diagram. You can choose a geom to fit the type of data you have.
+Points show the relationship between two quantitative variables. Bars show one quantitative variable varies across different categories.
+
+Facets let you display smaller groups or subsets of your data. With facets, you can create separate plots for all the variables in your dataset.
+Finally, the label and annotate functions let you customize your plot. You can add text like titles, subtitles and captions to communicate the purpose of your plot or highlight important data.
+
+
+install.packages(“ggplot2”)
+EX)
+ggplot(data = penguins) + geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g))
+
+ggplot(data = penguins): In ggplot2, you begin a plot with the ggplot() function. The ggplot() function creates a coordinate system that you can add layers to. The first argument of the ggplot() function is the dataset to use in the plot. In this case, it’s “penguins.”
+
++: Then, you add a “+” symbol to add a new layer to your plot. You complete your plot by adding one or more layers to ggplot().
+
+geom_point(): Next, you choose a geom by adding a geom function. The geom_point() function uses points to create scatterplots, the geom_bar function uses bars to create bar charts, and so on. In this case, choose the geom_point function to create a scatter plot of points. The ggplot2 package comes with many different geom functions. You’ll learn more about geoms later in this course.
+
+(mapping = aes(x = flipper_length_mm, y = body_mass_g)): Each geom function in ggplot2 takes a mapping argument. This defines how variables in your dataset are mapped to visual properties. The mapping argument is always paired with the aes() function. The x and y arguments of the aes() function specify which variables to map to the x-axis and the y-axis of the coordinate system. In this case, you want to map the variable “flipper_length_mm” to the x-axis, and the variable “body_mass_g” to the y-axis.
+
+Now go ahead and run the code. When you do, you get the following plot:
+
+scatter plot is visualized!
+
+
+***NOTE: You can write the same section of code above using a different syntax with the mapping argument inside the ggplot() call:
+ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = body_mass_g)) +  geom_point()*****
+That is another way to plot, which I kinda like better
+
+Link to ggplot2 cheat sheet -> https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf
+
+Formula for plotting in ggplot2 in R:
+ggplot(data = <DATA>) + <GEOM_FUNCTION>(mapping = aes(<AESTHETIC MAPPING>))
+
+
+Here’s an example of code that includes incorrect placement of the plus sign:
+
+ggplot(data = penguins)
+
+  + geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g))
+
+
+Here is the correct code:
+
+ggplot(data = penguins) +
+
+geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g))
+
+
+In the aes() function for mapping, you can add other properties,
+Like:
+color = column to color the points by the column
+shape = column
+alpha = column for more/less transparency for differentiation
+color = 'specific color'
+shape = 'specific shape'
+linetype = column to get a different line for different values in that column
+fill = 'color' or column //like color
+
+
+Let's say we want to show the relationship between the trend line and the data points more clearly. We can combine the code for geom underscore point and the code for geom underscore smooth by adding a plus symbol after geom underscore smooth. Let's write the code and run it.
+Use this for adding a trend line
+Smoothing enables the detection of a data trend even when you can't easily notice a trend from the plotted data points. Ggplot2’s smoothing functionality is helpful because it adds a smoothing line as another layer to a plot; the smoothing line helps the data to make sense to a casual observer.
+geom_smooth()
+
+For geom_bar, as in bar charts, you don't need to specify the y-axis as it's for categories and counts
+
+
+Facet functions let you display smaller groups or subsets of your data. A facet is a side or section of an object, like the sides of a gemstone.
+Facets show different sides of your data by placing each subset on its own plot.
+Faceting can help you discover new patterns in your data and focus on relationships between different variables
+
+Ggplot2 has two functions for faceting:
+facet_wrap(~column)
+To facet your plot by a single variable, use facet underscore wrap
+
+facet_grid(column1~column2)
+To facet your plot with two variables.
+Facet underscore grid will split the plot into facets vertically by the values of the first variable and horizontally by the values of the second variable.
+There are separate plots based on each combination of the values in each column
+
+
+Before plotting, filter data using the filter method to specify data further
+
+In everyday language to annotate means to add notes to a document or diagram to explain or comment upon it. In ggplot 2 adding annotations to your plot can help explain the plot's purpose or highlight important data.
+
+Let's start with the label function. It's super useful for adding informative labels to a plot such as titles, subtitles, and captions.
++ (to add a layer) labs(title = "TITLE", <optional> subtitle = "subtitle", caption = "caption")
+
+R automatically displays the subtitle just below the title. We can add a caption to our plot in the same way.
+Captions let us show the source of our data.
+
+annotate("text", x = coord, y = coord, label = "annotation message")
+Can add color, fill, font, shape, angle, etc. within the annotation
+
+
+So let's save our plots. To do this, you'll use the Export option in the plots tab of RStudio or the ggsave function provided by the ggplot2 package. First, we'll save our plots using the Export option.
+Let's use the Export option in the plots tab to save our plot.
+We can save it as an image file or a PDF file. Let's try saving it as an image. There are six different options for image format, including PNG and JPEG. Let's try PNG. Next, we name our file and click Save.
+Now, if we click on the files tab, we'll find our file in the list. Let's open it up. Looks great! That covers the export option for saving a plot.
+
+ggsave is a useful function for saving a plot. It defaults to saving the last plot that you displayed and uses the size of the current graphics device.
+ggsave("Filename.type")
+In RStudio, you can find the export menu for saving plots in the plots tab.
+
+
+
+R Markdown is a file format for making dynamic documents with R. You can use an R Markdown file as a code notebook to save, organize, and document your analysis using code chunks, comments, and other features. When you finish your data cleaning and exploration, you can create a report in R Markdown to summarize your findings for stakeholders.
+R Markdown documents are written in Markdown. Markdown is a syntax for formatting plain text files. Using Markdown makes it easier to write and format text in your document. Markdown is also easy to read and to learn.
+When you create a report of the document, the Markdown formatting is no longer visible, just the word or phrase in italics. We'll show you more formatting options soon, but they're all similar to this example. Basically, they're simple enough to let you focus on descriptions and explanations of your analysis without having to think too much about how to format them. Besides text, R Markdown also includes an interactive option called an R Notebook that lets users run your code and show the graphs and charts that visualize the code.
+Any R Markdown document can be used as a notebook.
+R Markdown files can be converted into HTML, PDF and Word, slideshow presentations, or dashboards.
+Notebooks like Jupyter, Kaggle, and Google Colab do a lot of the same things as an R Markdown notebook, including the interactive elements.
+
+install.packages("rmarkdown")
+File -> NewFile -> Markdown
+Title it; author it; select output format
+Then save it for later use; File->Save As
+
+An R notebook, which is an interactive R Markdown option. It lets users run code from the R Markdown document and displays charts and graphs to visualize that code. R Markdown documents can be saved as HTML reports, but they are not interactive.
+
+Click the knit button for a report; can be shared
+# in markdown is the signal for a Title in the final report
+
+
+Top of File:
+We'll start at the top. This is the YAML header section. YAML is a language for data that translates it, so it's readable. Fun fact: YAML originally stood for yet another markup language.
+This section is called out using three dashes on the first and last lines. This syntax automatically creates the YAML header section when it's used in an RMD file.
+In an RMD file, this section's basically for metadata or the data about the data in the rest of the file. The title, author, date and file type of an output are automatically included when you create a new file.
+
+Next, let's check out the text in the white areas of our file. Think of the text as a way to comment on and explain your code and analysis and any visualizations you're including. You can format the text to include links, ordered lists, equations and more. The text is formatted using Markdown, the syntax we introduced earlier.
+Hashtags are used for headers. The more hashtags, the smaller the header. The space is important as well. Otherwise RStudio won't recognize that this is a header. Let's knit our file again.
+In the next paragraph, knit is set off with two asterisks on either side of the word. This bolds the word. Using one asterisk on either side would instead italicize the word. Let's scroll down to the last paragraph. Here we've got some in-line code, which can be inserted directly into the text of a dot RMD file. The code appears in a gray box like the code chunks we'll talk about soon. Using in-line code like this lets you refer to the code directly as you explain it. Let's knit our file one more time.
+
+Just like in a standard document, bullets can help you organize your content. In our file, we'll turn the list of the documents that R Markdown can author into bullet points. We use asterisks in the dot RMD file to create the bullets in the output document.
+
+Now let's check out a different way to include a link in the file. When you're writing a report, you might want to link to the company website or to pages you used for research. Right now, in the first paragraph, we have the website URL inside of angle brackets. To embed the link in text instead, let's change the formatting.
+We'll start by changing the text to better fit the embedded link. Then we'll add square brackets and the word we want to embed the link in, and we'll change the angle brackets around the URL to parentheses. Both types of links work great, but some URLs are long and might clutter your report. In those cases, embedding links saves space and can look cleaner. Let's say you want to embed an image too.
+
+
+
+Next, between our delimiters, we'll add our first code chunk, which we use to load our two packages. Even if they're already loaded, loading them again makes sure that our packages will be updated to the latest version. We can type starting on the line after the first delimiter. But since we also have our programming file available, we'll copy and paste from there.
+The code chunks are the key to making this report a good learning tool and eventually a document worth presenting to stakeholders.
+
+If you format a code chunk with two ticks inside of three, it would appear as regular non-code text. Delimiters are characters that designate code, so it is important that they be in the correct syntax. Going forward, you can pay attention to delimiters to guarantee your R Markdown notebook will run your code properly.
+
+
+Setting the output of an R Markdown document
+When working in RStudio, you can set the output of a document in R Markdown by changing the YAML header.
+
+For example, the following code creates an HTML document:
+
+---
+
+title: "Demo"
+
+output: html_document
+
+---
+
+And the following code creates a PDF document:
+
+---
+
+title: "Demo"
+
+output: pdf_document
+
+---
+
+The Knit button in the RStudio source editor renders a file to the first format listed in its output field (HTML is the default). You can render a file to additional formats by clicking the dropdown menu next to the knit button.
+
+
+
+

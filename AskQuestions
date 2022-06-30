@@ -1,0 +1,846 @@
+Week 1
+
+There are six data analysis phases that will help you make seamless decisions: ask, prepare, process, analyze, share, and act. Keep in mind, these are different from the data life cycle, which describes the changes data goes through over its lifetime. Let’s walk through the steps to see how they can help you solve problems you might face on the job.
+
+Step 1: Ask
+It’s impossible to solve a problem if you don’t know what it is. These are some things to consider:
+
+Define the problem you’re trying to solve
+
+Make sure you fully understand the stakeholder’s expectations
+
+Focus on the actual problem and avoid any distractions
+
+Collaborate with stakeholders and keep an open line of communication
+
+Take a step back and see the whole situation in context
+
+Questions to ask yourself in this step:
+1) What are my stakeholders saying their problems are?
+
+2) Now that I’ve identified the issues, how can I help the stakeholders resolve their questions?
+
+
+Step 2: Prepare
+You will decide what data you need to collect in order to answer your questions and how to organize it so that it is useful. You might use your business task to decide:
+
+What metrics to measure
+
+Locate data in your database
+
+Create security measures to protect that data
+
+Questions to ask yourself in this step:
+1) What do I need to figure out how to solve this problem?
+
+2) What research do I need to do?
+
+
+
+Step 3: Process
+Clean data is the best data and you will need to clean up your data to get rid of any possible errors, inaccuracies, or inconsistencies. This might mean:
+
+Using spreadsheet functions to find incorrectly entered data
+
+Using SQL functions to check for extra spaces
+
+Removing repeated entries
+
+Checking as much as possible for bias in the data
+
+Questions to ask yourself in this step:
+1) What data errors or inaccuracies might get in my way of getting the best possible answer to the problem I am trying to solve?
+
+2) How can I clean my data so the information I have is more consistent?
+
+
+Step 4: Analyze
+You will want to think analytically about your data. At this stage, you might sort and format your data to make it easier to:
+
+Perform calculations
+
+Combine data from multiple sources
+
+Create tables with your results
+
+Questions to ask yourself in this step:
+1) What story is my data telling me?
+
+2) How will my data help me solve this problem?
+
+3) Who needs my company’s product or service? What type of person is most likely to use it?
+
+
+
+Step 5: Share
+Everyone shares their results differently so be sure to summarize your results with clear and enticing visuals of your analysis using data via tools like graphs or dashboards. This is your chance to show the stakeholders you have solved their problem and how you got there. Sharing will certainly help your team:
+
+Make better decisions
+
+Make more informed decisions
+
+Lead to stronger outcomes
+
+Successfully communicate your findings
+
+Questions to ask yourself in this step:
+1) How can I make what I present to the stakeholders engaging and easy to understand?
+
+2) What would help me understand this if I were the listener?
+
+
+
+Step 6: Act
+Now it’s time to act on your data. You will take everything you have learned from your data analysis and put it to use. This could mean providing your stakeholders with recommendations based on your findings so they can make data-driven decisions.
+
+Questions to ask yourself in this step:
+1) How can I use the feedback I received during the share phase (step 5) to actually meet the stakeholder’s needs and expectations?
+
+These six steps can help you to break the data analysis process into smaller, manageable parts, which is called structured thinking. This process involves four basic activities:
+
+1) Recognizing the current problem or situation
+
+2) Organizing available information
+
+3) Revealing gaps and opportunities
+
+4) Identifying your options
+
+
+Data analysts typically work with six problem types:
+
+1) Making predictions
+A company that wants to know the best advertising method to bring in new customers is an example of a problem requiring analysts to make predictions. Analysts with data on location, type of media, and number of new customers acquired as a result of past ads can't guarantee future results, but they can help predict the best placement of advertising to reach the target audience.
+
+2) Categorizing things
+An example of a problem requiring analysts to categorize things is a company's goal to improve customer satisfaction. Analysts might classify customer service calls based on certain keywords or scores. This could help identify top-performing customer service representatives or help correlate certain actions taken with higher customer satisfaction scores.
+
+3) Spotting something unusual
+A company that sells smart watches that help people monitor their health would be interested in designing their software to spot something unusual. Analysts who have analyzed aggregated health data can help product developers determine the right algorithms to spot and set off alarms when certain data doesn't trend normally.
+
+4) Identifying themes
+User experience (UX) designers might rely on analysts to analyze user interaction data. Similar to problems that require analysts to categorize things, usability improvement projects might require analysts to identify themes to help prioritize the right product features for improvement. Themes are most often used to help researchers explore certain aspects of data. In a user study, user beliefs, practices, and needs are examples of themes.
+By now you might be wondering if there is a difference between categorizing things and identifying themes. The best way to think about it is: categorizing things involves assigning items to categories; identifying themes takes those categories a step further by grouping them into broader themes.
+
+5) Discovering connections
+A third-party logistics company working with another company to get shipments delivered to customers on time is a problem requiring analysts to discover connections. By analyzing the wait times at shipping hubs, analysts can determine the appropriate schedule changes to increase the number of on-time deliveries.
+
+6) Finding patterns
+Minimizing downtime caused by machine failure is an example of a problem requiring analysts to find patterns in data. For example, by analyzing maintenance data, they might discover that most failures happen if regular maintenance is delayed by more than a 15-day window.
+
+
+Examples of SMART questions
+Here's an example that breaks down the thought process of turning a problem question into one or more SMART questions using the SMART method: What features do people look for when buying a new car?
+
+Specific: Does the question focus on a particular car feature?
+
+Measurable: Does the question include a feature rating system?
+
+Action-oriented: Does the question influence creation of different or new feature packages?
+
+Relevant: Does the question identify which features make or break a potential car purchase?
+
+Time-bound: Does the question validate data on the most popular features from the last three years?
+
+
+Questions should be open-ended. This is the best way to get responses that will help you accurately qualify or disqualify potential solutions to your specific problem. So, based on the thought process, possible SMART questions might be:
+
+On a scale of 1-10 (with 10 being the most important) how important is your car having four-wheel drive?
+What are the top five features you would like to see in a car package?
+What features, if included with four-wheel drive, would make you more inclined to buy the car?
+How much more would you pay for a car with four-wheel drive?
+Has four-wheel drive become more or less popular in the last three years?
+
+Things to avoid when asking questions
+
+Leading questions: questions that only have a particular response
+Example: This product is too expensive, isn’t it?
+
+Closed-ended questions: questions that ask for a one-word or brief response only
+Example: Were you satisfied with the customer trial?
+
+Vague questions: questions that aren’t specific or don’t provide context
+Example: Does the tool work for you?
+
+
+EX: If you are having a conversation with a small business owner of an ice cream shop, you could ask:
+
+Specific: What data do you use to help with purchasing and inventory?
+
+Measurable: Can you order (rank) these factors from most to least influential on sales: price, flavor, and time of year (season)?
+
+Action-oriented: Is there a single factor you need more data on so you can potentially increase sales?
+
+Relevant: How do you advertise to or communicate with customers?
+
+Time-bound: What does your year-over-year sales growth look like for the last three years?
+
+Week 1 Glossary Terms:
+
+Action-oriented question: A question whose answers lead to change
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Attribute: A characteristic or quality of data used to label a column in a table
+Business task: The question or problem that data analysis resolves for a business
+Cloud: A place to keep data online, rather than a computer hard drive
+Context: The condition in which something exists or happens
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data life cycle: The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Fairness: A quality of data analysis that does not create or reinforce bias
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Leading question: A question that steers people toward a certain response
+Measurable question: A question whose answers can be quantified and assessed
+Observation: The attributes that describe a piece of data contained in a row of a table
+Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+Relevant question: A question that has significance to the problem to be solved
+Root cause: The reason why a problem occurs
+SMART methodology: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+Spreadsheet: A digital worksheet
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Time-bound question: A question that specifies a timeframe to be studied
+Unfair question: A question that makes assumptions or is difficult to answer honestly
+Visualization: (Refer to data visualization)
+
+
+
+Week 2
+
+This reading further elaborates on the meaning of qualitative versus quantitative.
+
+As you have learned, there are two types of data: qualitative and quantitative.
+
+Data analysts will generally use both types of data in their work. Usually, qualitative data can help analysts better understand their quantitative data by providing a reason or more thorough explanation. In other words, quantitative data generally gives you the what, and qualitative data generally gives you the why.
+
+Qualitative Data Tools:
+1) Focus Groups
+2) Social Media Text Analysis
+3) In-person Interviews
+
+Quantitative Data Tools:
+1) Structured Interviews
+2) Surveys
+2) Polls
+
+Data Inspired Decision Making looks at what data has in common.
+
+
+Dashboards are powerful visual tools that help you tell your data story. A dashboard organizes information from multiple datasets into one central location, offering huge time-savings. Data analysts use dashboards to track, analyze, and visualize data in order to answer questions and solve problems.
+Tableau is one tool that is used to create dashboards and is covered later in the program.
+
+Benefits
+
+For Data Analysts:
+Centralization
+Sharing a single source of data with all stakeholders
+
+Visualization
+Showing and updating live, incoming data in real time*
+
+Insightfulness
+Pulling relevant information from different datasets
+
+Customization
+Creating custom views dedicated to a specific person, project, or presentation of the data
+
+
+
+
+For Stakeholders:
+
+Centralization
+Working with a comprehensive view of data, initiatives, objectives, projects, processes, and more
+
+Visualization
+Spotting changing trends and patterns more quickly
+
+Insightfulness
+Understanding the story behind the numbers to keep track of goals and make data-driven decisions
+
+Customization
+Drilling down to more specific areas of specialized interest or concern
+
+Creating a dashboard
+Here is a process you can follow to create a dashboard:
+
+1. Identify the stakeholders who need to see the data and how they will use it
+To get started with this, you need to ask effective questions. Check out this Requirements Gathering Worksheet to explore a wide range of good questions you can use to identify relevant stakeholders and their data needs. This is a great resource to help guide you through this process again and again.
+
+2. Design the dashboard (what should be displayed)
+Use a clear header to label the information
+Add short text descriptions to each visualization
+Show the most important information at the top
+
+3. Create mock-ups if desired
+This is optional, but a lot of data analysts like to sketch out their dashboards before creating them.
+
+4. Select the visualizations you will use on the dashboard
+You have a lot of options here and it all depends on what data story you are telling. If you need to show a change of values over time, line charts or bar graphs might be the best choice. If your goal is to show how each part contributes to the whole amount being reported, a pie or donut chart is probably a better choice.
+
+To learn more about choosing the right visualizations, check out Tableau’s galleries:
+For more samples of area charts, column charts, and other visualizations, visit Tableau’s Viz Gallery: https://www.tableau.com/solutions/gallery. This gallery is full of great examples that were created using real data; explore this resource on your own to get some inspiration.
+Explore Tableau’s Viz of the Day: https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day to see visualizations curated by the community. These are visualizations created by Tableau users and are a great way to learn more about how other data analysts are using data visualization tools.
+
+5. Create filters as needed
+Filters show certain data while hiding the rest of the data in a dashboard. This can be a big help to identify patterns while keeping the original data intact. It is common for data analysts to use and share the same dashboard, but manage their part of it with a filter. To dig deeper into filters and find an example of filters in action, you can visit Tableau’s page on Filter Actions: https://help.tableau.com/current/pro/desktop/en-us/actions_filter.htm. This is a useful resource to save and come back to when you start practicing using filters in Tableau on your own.
+
+
+Using the data, you could make them a pivot table with a graph that shows that information. A pivot table is a data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, re-organize, group, count, total, or average data stored in a database. It allows its users to transform columns into rows and rows into columns.
+
+We'll select the Data menu and click Pivot table button. It can pull data from this table. We can just press create and it'll pull up a new worksheet. Over here, it gives us the pivot table fields we can choose from. Click select, salesperson and revenue. Just like that, it made a chart for us
+
+If you need a more dynamic way to share information with your stakeholders, dashboards are your friend. You might create something like this Tableau dashboard. With interactive graphs that showcase multiple views of the data. With this, users can change location, date range, or any other aspect of the data they're viewing by clicking through different elements on the dashboard.
+
+A metric is a single, quantifiable type of data that can be used for measurement. Think of it this way. Data starts as a collection of raw facts, until we organize them into individual metrics that represent a single type of data.
+
+
+Whether you work with big or small data, you can use it to help stakeholders improve business processes, answer questions, create new products, and much more. But there are certain challenges and benefits that come with big data and the following table explores the differences between big and small data.
+
+Small data:
+
+Describes a data set made up of specific metrics over a short, well-defined time period
+Usually organized and analyzed in spreadsheets
+Likely to be used by small and midsize businesses
+Simple to collect, store, manage, sort, and visually represent
+Usually already a manageable size for analysis
+
+Big data:
+
+Describes large, less-specific data sets that cover a long time period
+Usually kept in a database and queried
+Likely to be used by large organizations
+Takes a lot of effort to collect, store, manage, sort, and visually represent
+Usually needs to be broken into smaller pieces in order to be organized and analyzed effectively for decision-making
+
+
+Here are some challenges you might face when working with big data:
+
+A lot of organizations deal with data overload and way too much unimportant or irrelevant information.
+Important data can be hidden deep down with all of the non-important data, which makes it harder to find and use. This can lead to slower and more inefficient decision-making time frames.
+The data you need isn’t always easily accessible.
+Current technology tools and solutions still struggle to provide measurable and reportable data. This can lead to unfair algorithmic bias.
+There are gaps in many big data business solutions.
+
+Now for the good news! Here are some benefits that come with big data:
+
+When large amounts of data can be stored and analyzed, it can help companies identify more efficient ways of doing business and save a lot of time and money.
+Big data helps organizations spot the trends of customer buying patterns and satisfaction levels, which can help them create new products and solutions that will make customers happy.
+By analyzing big data, businesses get a much better understanding of current market conditions, which can help them stay ahead of the competition.
+As in our earlier social media example, big data helps companies keep track of their online presence—especially feedback, both good and bad, from customers. This gives them the information they need to improve and protect their brand.
+
+When thinking about the benefits and challenges of big data, it helps to think about the three Vs: volume, variety, and velocity. Volume describes the amount of data. Variety describes the different kinds of data. Velocity describes how fast the data can be processed. Some data analysts also consider a fourth V: veracity. Veracity refers to the quality and reliability of the data.
+
+Week 2 Glossary Terms:
+
+Action-oriented question: A question whose answers lead to change
+Algorithm: A process or set of rules followed for a specific task
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Attribute: A characteristic or quality of data used to label a column in a table
+Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
+Business task: The question or problem that data analysis resolves for a business
+Cloud: A place to keep data online, rather than a computer hard drive
+Context: The condition in which something exists or happens
+Dashboard: A tool that monitors live, incoming data
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data-inspired decision-making: The process of exploring different data sources to find out what they have in common
+Data life cycle: The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Fairness: A quality of data analysis that does not create or reinforce bias
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Leading question: A question that steers people toward a certain response
+Measurable question: A question whose answers can be quantified and assessed
+Metric: A single, quantifiable type of data that is used for measurement
+Metric goal: A measurable goal set by a company and evaluated using metrics
+Observation: The attributes that describe a piece of data contained in a row of a table
+Pivot chart: A chart created from the fields in a pivot table
+Pivot table: A data summarization tool used to sort, reorganize, group, count, total, or average data
+Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+Qualitative data: A subjective and explanatory measure of a quality or characteristic
+Quantitative data: A specific and objective measure, such as a number, quantity, or range
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+Relevant question: A question that has significance to the problem to be solved
+Report: A static collection of data periodically given to stakeholders
+Return on investment (ROI): A formula that uses the metrics of investment and profit to evaluate the success of an investment
+Revenue: The total amount of income generated by the sale of goods or services
+Root cause: The reason why a problem occurs
+Small data: Small, specific data points typically involving a short period of time, which are useful for making day-to-day decisions
+SMART methodology: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+Spreadsheet: A digital worksheet
+SQL: (Refer to Structured Query Language)
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Structured Query Language: A computer programming language used to communicate with a database
+Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Time-bound question: A question that specifies a timeframe to be studied
+Unfair question: A question that makes assumptions or is difficult to answer honestly
+Visualization: (Refer to data visualization)
+
+
+Week 3
+
+To better understand the benefits of using spreadsheets in data analytics, let’s explore how they relate to each phase of the data life cycle: plan, capture, manage, analyze, archive, and destroy.
+
+Plan for the users who will work within a spreadsheet by developing organizational standards. This can mean formatting your cells, the headings you choose to highlight, the color scheme, and the way you order your data points. When you take the time to set these standards, you will improve communication, ensure consistency, and help people be more efficient with their time.
+
+Capture data by the source by connecting spreadsheets to other data sources, such as an online survey application or a database. This data will automatically be updated in the spreadsheet. That way, the information is always as current and accurate as possible.
+
+Manage different kinds of data with a spreadsheet. This can involve storing, organizing, filtering, and updating information. Spreadsheets also let you decide who can access the data, how the information is shared, and how to keep your data safe and secure.
+
+Analyze data in a spreadsheet to help make better decisions. Some of the most common spreadsheet analysis tools include formulas to aggregate data or create reports, and pivot tables for clear, easy-to-understand visuals.
+
+Archive any spreadsheet that you don’t use often, but might need to reference later with built-in tools. This is especially useful if you want to store historical data before it gets updated.
+
+Destroy your spreadsheet when you are certain that you will never need it again, if you have better backup copies, or for legal or security reasons. Keep in mind, lots of businesses are required to follow certain rules or have measures in place to make sure data is destroyed properly.
+
+
+Create a new spreadsheet
+
+To start, go to www.google.com.
+Click the Google apps icon.
+Then, click the Sheets icon.
+
+Edit and format your spreadsheet
+
+After you create your sheet, give it a title. In the upper left corner of your sheet, click Untitled spreadsheet and enter a title. Make your title clear and concise. It should describe what the data in the spreadsheet is about. For example, you could use the title Bakery Sales March 2020 or something similar.
+Next, enter your column headers. The first row of the spreadsheet is for data attributes, which is another name for column headers. An attribute is a characteristic or quality of data used to label a column in a table. It's basically labeling the type of data in each column. In this case, you want to enter data for transaction date, product name, price, and quantity. Click in cell A1 and enter your first header: Date. Click in cell B1 and enter your next header: Name. Repeat this process for the rest of the attributes.
+Next, format your column headings to make them stand out clearly. For example, you can make the headings stand out from the rest of the rows by using bold and center align. Click on cell A1 and drag the handle across to cell D1 (you have now selected the range A1:D1). Next, click the bold icon on the toolbar. Then, click the Center align icon on the toolbar.
+Now, enter relevant data for each column (Date, Name, Price, Quantity). Feel free to use the data contained in the example above, or create your own.
+If you want to add another column between two existing columns, you can insert a new column. First, click on a column to select it. Then, click Insert on the menu bar and choose where to add the column. You can do the same thing to insert rows.
+
+If you want to move an existing row or column, click the row number or column letter to select it. Then, drag it to a new location.
+If you want to delete an existing row or column, right-click on the row number or column letter that you want to delete. Then, select Delete in the popup menu.
+(Optional) Feel free to explore some of the other features in Google Sheets. Later in the course, we’ll cover many of these features in detail. For example, you can click Insert on the menu bar and experiment with charts, images, drawings, and more.
+As mentioned earlier, your data is saved automatically as you are working.
+
+Now that you’ve set up your spreadsheet, share it with others.
+
+Basic Excel Tutorials:
+
+https://support.microsoft.com/en-us/office/office-quick-starts-25f909da-3e76-443d-94f4-6cdf7dedc51e#ID0EAADAAA=At_work_or_school
+https://support.microsoft.com/en-us/office/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?wt.mc_id=otc_home
+https://support.microsoft.com/en-us/office/sort-data-in-a-range-or-table-62d0b95d-2a90-4610-a6ae-2e545c4a4654
+https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e
+https://support.microsoft.com/en-us/office/quick-start-format-a-worksheet-d70f75a2-23e6-4c92-83d6-2f219e4ad42e
+
+Excel vs Sheets:
+https://support.google.com/a/users/answer/9331278?hl=en
+
+
+There's a few different ways data analysts get data they work with. Depending on the job, you might use data from an open source, you might be given data to work with or you might be asked to find your own data. You'll experience all of these later in the program. There's a lot of open data sources online, where data is made available to the public.
+Tutorial:
+
+We'll start by selecting the whole sheet and making our columns wider by dragging the boundary of one of the columns.
+This will help us see the data clearly, then we can adjust any individual columns that need it. You can make columns wider in other ways as well, but this will work for now. The first row of the spreadsheet is for data attributes or variables. It's basically labeling the type of data in each column. Let's make the attributes stand out from the rest of the rows by selecting it and filling it with color. We'll also make the labels bold.
+If we want to add another data attribute between two of the other attributes, we can always add a new column. Just click on any cell within a column and use the Insert menu to add a new one.
+
+To delete, right-click in a cell in the column you want to get rid of. The steps we're showing may be different depending on the spreadsheet program you're using, but should be pretty similar.
+Let's add one more thing to our data table: borders. This can help you see each piece of data more clearly. To add borders start by clicking the Select All button at the top left corner of your spreadsheet. This is like a magic button because you can click it whenever you need to make changes to every cell in your spreadsheet. Then click the Border button in the menu, and choose the type of borders you want. To keep our spreadsheets uniform, we'll choose borders for all cells. Just like that, we've gone from raw to refined.
+
+Formulas
+
+The basics
+When you write a formula in math, it generally ends with an equal sign (2 + 3 = ?). But with formulas, they always start with one instead (=A2+A3). The equal sign tells the spreadsheet that what follows is part of a formula, not just a word or number in a cell.
+After you type the equal sign, most spreadsheet applications will display an autocomplete menu that lists valid formulas, names, and text strings. This is a great way to create and edit formulas while avoiding typing and syntax errors.
+A fun way to learn new formulas is just by typing an equal sign and a single letter of the alphabet. Choose one of the options that pops up and you will learn what that formula does.
+
+Mathematical operators
+The mathematical operators used in spreadsheet formulas include:
+Subtraction – minus sign ( - )
+Addition – plus sign ( + )
+Division – forward-slash ( / )
+Multiplication – asterisk ( * )
+
+Auto-filling
+The lower-right corner of each cell has a fill handle. It is a small green square in Microsoft Excel and a small blue square in Google Sheets.
+Click the fill handle for a cell and drag it down a column to auto-fill other cells in the column with the same value or formula in that cell.
+Click the fill handle for a cell and drag it across a row to auto-fill other cells in the row with the same value or formula in that cell.
+If you want to create a numbered sequence in a column or row, do the following: 1) Fill in the first two numbers of the sequence in two adjacent cells, 2) Select to highlight the cells, and 3) Drag the fill handle to the last cell to complete the sequence of numbers. For example, to insert 1 through 100 in each row of column A, enter 1 in cell A1 and 2 in cell A2. Then, select to highlight both cells, click the fill handle in cell A2, and drag it down to cell A100. This auto-fills the numbers sequentially so you don't have to type them in each cell.
+
+Absolute referencing
+Absolute referencing is marked by a dollar sign ($). For example, =$A$10 has absolute referencing for both the column and the row value
+Relative references (which is what you normally do e.g. “=A10”) will change anytime the formula is copied and pasted. They are in relation to where the referenced cell is located. For example if you copied “=A10” to the cell to the right it would become “=B10”. With absolute referencing “=$A$10” copied to the cell to the right would remain “=$A$10”. But if you copied $A10 to the cell below, it would change to $A11 because the row value isn't an absolute reference.
+Absolute references will not change when you copy and paste the formula in a different cell. The cell being referenced is always the same.
+To easily switch between absolute and relative referencing in the formula bar, highlight the reference you want to change and press the F4 key; for example, if you want to change the absolute reference, $A$10, in your formula to a relative reference, A10, highlight $A$10 in the formula bar and then press the F4 key to make the change.
+
+Data range
+When you click into your formula, the colored ranges let you see which cells are being used in your spreadsheet. There are different colors for each unique range in your formula.
+In a lot of spreadsheet applications, you can press the F2 (or Enter) key to highlight the range of data in the spreadsheet that is referenced in a formula. Click the cell with the formula, and then press the F2 (or Enter) key to highlight the data in your spreadsheet.
+
+Combining with functions
+COUNTIF() is a formula and a function. This means the function runs based on criteria set by the formula. In this case, COUNT is the formula; it will be executed IF the conditions you create are true. For example, you could use =COUNTIF(A1:A16, “7”) to count only the cells that contained the number 7. Combining formulas and functions allows you to do more work with a single command.
+
+These strategies will help you avoid spreadsheet errors to begin with, making your life in analytics a whole lot less stressful:
+
+Filter data to make your spreadsheet less complex and busy.
+Use and freeze headers so you know what is in each column, even when scrolling.
+When multiplying numbers, use an asterisk (*) not an X.
+Start every formula and function with an equal sign (=).
+Whenever you use an open parenthesis, make sure there is a closed parenthesis on the other end to match.
+Change the font to something easy to read.
+Set the border colors to white so that you are working in a blank sheet.
+Create a tab with just the raw data, and a separate tab with just the data you need.
+
+Error:
+
+#DIV/0!
+
+#ERROR!
+
+#N/A
+
+#NAME?
+
+#NUM!
+
+#REF!
+
+#VALUE!
+
+
+
+Description:
+
+A formula is trying to divide a value in a cell by 0 (or an empty cell with no value)
+
+(Google Sheets only)  Something can’t be interpreted as it has been input. This is also known as a parsing error.
+
+A formula can't find the data
+
+The name of a formula or function used isn't recognized
+
+The spreadsheet can't perform a formula calculation because a cell has an invalid numeric value
+
+A formula is referencing a cell that isn't valid
+
+A general error indicating a problem with a formula or with referenced cells
+
+
+
+
+Example:
+
+=B2/B3, when the cell B3 contains the value 0
+
+=COUNT(B1:D1 C1:C10) is invalid because the cell ranges aren't separated by a comma
+
+The cell being referenced can't be found
+
+The name of a function is misspelled
+
+=DATEDIF(A4, B4, "M")  is unable to calculate the number of months between two dates because the date in cell A4 falls after the date in cell B4
+
+A cell used in a formula was in a column that was deleted
+
+There could be problems with spaces or text, or with referenced cells in a formula; you may have additional work to find the source of the problem.
+
+
+Conditional formatting can be used to highlight cells a different color based on their contents. This feature can be extremely helpful when you want to locate all errors in a large spreadsheet.
+
+Conditional formatting in Microsoft Excel:
+
+To set up conditional formatting in Microsoft Excel to highlight all cells in a spreadsheet that contain errors, do the following:
+
+Click the gray triangle above row number 1 and to the left of Column A to select all cells in the spreadsheet.
+From the main menu, click Home, and then click Conditional Formatting to select Highlight Cell Rules > More Rules.
+For Select a Rule Type, choose Use a formula to determine which cells to format.
+For Format values where this formula is true, enter =ISERROR(A1).
+Click the Format button, select the Fill tab, select yellow (or any other color), and then click OK.
+Click OK to close the format rule window.
+To remove conditional formatting, click Home and select Conditional Formatting, and then click Manage Rules. Locate the format rule in the list, click Delete Rule, and then click OK.
+
+
+Conditional formatting in Google Sheets
+
+To set up conditional formatting in Google Sheets to highlight all cells in a spreadsheet that contain errors, do the following:
+
+Click the empty rectangle above row number 1 and to the left of Column A to select all cells in the spreadsheet. In the Step-by-step in spreadsheets video, this was called the Select All button.
+From the main menu, click Format and select Conditional Formatting to open the Conditional format rules pane on the right.
+While in the Single Color tab, under Format rules, use the drop-down to select Custom formula is, enter =ISERROR(A1), select yellow (or any other color) for the formatting style, and then click Done.
+To remove conditional formatting, click Format and select Conditional Formatting, and then click the Trash icon for the format rule.
+
+Functions
+
+The basics
+Just like formulas, start all of your functions with an equal sign; for example =SUM. The equal sign tells the spreadsheet that what follows is part of a function, not just a word or number in a cell.
+After you type the equal sign, most spreadsheet applications will display an autocomplete menu that lists valid functions, names, and text strings. This is a great way to create and edit functions while avoiding typing and syntax errors.
+A fun way to learn new functions is by simply typing an equal sign and a single letter of the alphabet. Choose one of the options that pops up and learn what that function does.
+
+Difference between formulas and functions
+A formula is a set of instructions used to perform a calculation using the data in a spreadsheet.
+A function is a preset command that automatically performs a specific process or task using the data in a spreadsheet.
+
+Relative, absolute, and mixed references
+
+Relative references (cells referenced without a dollar sign, like A2) will change when you copy and paste the function into a different cell. With relative references, the location of the cell that contains the function determines the cells used by the function.
+Absolute references (cells fully referenced with a dollar sign, like $A$2) will not change when you copy and paste the function into a different cell. With absolute references, the cells referenced always remain the same.
+Mixed references (cells partially referenced with a dollar sign, like $A2 or A$2) will change when you copy and paste the function into a different cell. With mixed references, the location of the cell that contains the function determines the cells used by the function, but only the row or column is relative (not both).
+
+In spreadsheets, you can press the F4 key to toggle between relative, absolute, and mixed references in a function. Click the cell containing the function, highlight the referenced cells in the formula bar, and then press F4 to toggle between and select relative, absolute, or mixed referencing.
+Then, from the menu bar, select Data → Sort range. (Note: For some versions of Google Sheets, the selection Advanced range sorting options may appear on the Data drop-down menu instead of Sort range).
+In the pop-up window, click the Data has header row box. Now you can choose specific column headers to sort by.
+In the Sort by dropdown, choose the header Date. Then, click A → Z to sort in ascending order.
+Finally, click Sort.
+
+
+Now that you’ve sorted your data, you’re ready to create a custom data table based on the specific questions you want to answer. Your table will clearly display the data you want to summarize.
+
+Sorting:
+Select all the data in the spreadsheet by clicking the rectangle in the top left corner of your sheet.
+
+
+The TEXT function converts a number into text according to a specified format. In this case, you want to list the months of the year. You can use the format “mmmm” for the full name of the month. In cell G2, type =TEXT(B2,"mmmm"). The first entry (B2) refers to the cell you want to convert. The second entry (“mmmm”) refers to the specific format you want to use. Press Enter.
+
+The COUNTIF function quickly counts how many items in a range of cells meet a given criterion. In cell B2, type =COUNTIF(‘raw data’!G:G,A2). The first entry (‘raw data’!G:G) refers to the range where you are counting the data. The range is located on your raw data sheet (‘raw data’!) and includes all column G (G:G). This column contains the data for months. The second entry (A2) refers to the criterion you want to count. In this case, it’s “January,” the value in cell A2 of your summary data sheet. The function will tell you how many times January (the criterion) appears in the Date column (the range).
+
+The SUM function adds up the values in a range of cells. Using the SUM function saves time and effort, especially if you have to find the sum of a long sequence of numbers. In the parentheses of the function, add the range you want to sum (B2:B13). In cell B14, type =SUM(B2:B13).
+
+The MIN function to calculate the least number of applications received in a month. The MIN function returns the minimum value in a numeric dataset. In cell B16, type =MIN(B2:B13).
+
+The MAX function to calculate the greatest number of applications received in a month. The MAX function returns the maximum value in a numeric dataset. In cell B17, type =MAX(B2:B13).
+
+The AVERAGE function to calculate the average monthly applications received in 2019. The AVERAGE function returns the average value in a numeric dataset. In cell B18, type =AVERAGE(B2:B13).
+
+
+Structured thinking is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options. In other words, it's a way of being super prepared.
+The starting place for structured thinking is the problem domain, which you might have remembered from earlier. Once you know the specific area of analysis, you can set your base and lay out all your requirements and hypotheses before you start investigating.
+A scope of work or SOW is an agreed- upon outline of the work you're going to perform on a project.
+For many businesses, this includes things like work details, schedules, and reports that the client can expect
+
+Deliverables are items or tasks you will complete before you can finish the project.
+Timelines include due dates for when deliverables, milestones, and/or reports are due.
+Milestones are significant tasks you will confirm along your timeline to help everyone know the project is on track.
+Reports notify everyone as you finalize deliverables and meet milestones.
+
+A data analyst asks who, what, when, where, why, and how in order to put information into context.
+Context is the condition in which something exists or happens. Context is important in data analytics because it helps you sift through huge amounts of disorganized data and turn it into something meaningful. The fact is, data has little value if it is not paired with context.
+
+
+Week 3 Glossary Terms:
+
+Action-oriented question: A question whose answers lead to change
+Algorithm: A process or set of rules followed for a specific task
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Attribute: A characteristic or quality of data used to label a column in a table
+AVERAGE: A spreadsheet function that returns an average of the values from a selected range
+Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
+Borders: Lines that can be added around two or more cells on a spreadsheet
+Business task: The question or problem that data analysis resolves for a business
+Cell reference: A cell or a range of cells in a worksheet typically used in formulas and functions
+Cloud: A place to keep data online, rather than a computer hard drive
+Context: The condition in which something exists or happens
+COUNT: A spreadsheet function that counts the number of cells in a range that meet a specific criteria
+Dashboard: A tool that monitors live, incoming data
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data-inspired decision-making: The process of exploring different data sources to find out what they have in common
+Data life cycle: The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Equation: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
+Fairness: A quality of data analysis that does not create or reinforce bias
+Fill handle: A box in the lower-right-hand corner of a selected spreadsheet cell that can be dragged through neighboring cells in order to continue an instruction
+Filtering: The process of showing only the data that meets a specified criteria while hiding the rest
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Header: The first row in a spreadsheet that labels the type of data in each column
+Leading question: A question that steers people toward a certain response
+Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called an equation)
+Math function: A function that is used as part of a mathematical formula
+MAX: A spreadsheet function that returns the largest numeric value from a range of cells
+Measurable question: A question whose answers can be quantified and assessed
+Metric: A single, quantifiable type of data that is used for measurement
+Metric goal: A measurable goal set by a company and evaluated using metrics
+MIN: A spreadsheet function that returns the smallest numeric value from a range of cells
+Observation: The attributes that describe a piece of data contained in a row of a table
+Open data: Data that is available to the public
+Operator: A symbol that names the operation or calculation to be performed
+Order of operations: Using parentheses to group together spreadsheet values in order to clarify the order in which operations should be performed
+Pivot chart: A chart created from the fields in a pivot table
+Pivot table: A data summarization tool used to sort, reorganize, group, count, total, or average data
+Problem domain: The area of analysis that encompasses every activity affecting or affected by a problem
+Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+Qualitative data: A subjective and explanatory measure of a quality or characteristic
+Quantitative data: A specific and objective measure, such as a number, quantity, or range
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+Range: A collection of two or more cells in a spreadsheet
+Relevant question: A question that has significance to the problem to be solved
+Report: A static collection of data periodically given to stakeholders
+Return on investment (ROI): A formula that uses the metrics of investment and profit to evaluate the success of an investment
+Revenue: The total amount of income generated by the sale of goods or services
+Root cause: The reason why a problem occurs
+Scope of work (SOW): An agreed-upon outline of the tasks to be performed during a project
+Small data: Small, specific data points typically involving a short period of time, which are useful for making day-to-day decisions
+SMART methodology: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+Sorting: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
+Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+Spreadsheet: A digital worksheet
+SQL: (Refer to Structured Query Language)
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Structured Query Language: A computer programming language used to communicate with a database
+Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+SUM: A spreadsheet function that adds the values of a selected range of cells
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Time-bound question: A question that specifies a timeframe to be studied
+Unfair question: A question that makes assumptions or is difficult to answer honestly
+Visualization: (Refer to data visualization)
+
+
+Week 4
+
+As a data analyst, it is your responsibility to understand and manage your stakeholders’ expectations while keeping the project goals front and center.
+You might remember that stakeholders are people who have invested time, interest, and resources into the projects that you are  working on.
+
+The executive team provides strategic and operational leadership to the company. They set goals, develop strategy, and make sure that strategy is executed effectively. The executive team might include vice presidents, the chief marketing officer, and senior-level professionals who help plan and direct the company’s work. These stakeholders think about decisions at a very high level and they are looking for the headline news about your project first.  They are less interested in the details.
+The customer-facing team includes anyone in an organization who has some level of interaction with customers and potential customers. Typically they compile information, set expectations, and communicate customer feedback to other parts of the internal organization. These stakeholders have their own objectives and may come to you with specific asks. I
+Organizing data within a company takes teamwork. There's a good chance you'll find yourself working with other data analysts, data scientists, and data engineers. For example, maybe you team up with a company's data science team to work on boosting company engagement to lower rates of employee turnover. In that case, you might look into the data on employee productivity, while another analyst looks at hiring data.
+
+When you're working with each group of stakeholders- from the executive team, to the customer-facing team, to the data science team, you'll often have to go beyond the data. Use the following tips to communicate clearly, establish trust, and deliver your findings across groups.
+
+Discuss goals. Stakeholder requests are often tied to a bigger project or goal. When they ask you for something, take the opportunity to learn more. Start a discussion. Ask about the kind of results the stakeholder wants. Sometimes, a quick chat about goals can help set expectations and plan the next steps.
+Feel empowered to say “no.” Let’s say you are approached by a marketing director who has a “high-priority” project and needs data to back up their hypothesis. They ask you to produce the analysis and charts for a presentation by tomorrow morning. Maybe you realize their hypothesis isn’t fully formed and you have helpful ideas about a better way to approach the analysis. Or maybe you realize it will take more time and effort to perform the analysis than estimated. Whatever the case may be, don’t be afraid to push back when you need to.
+Plan for the unexpected. Before you start a project, make a list of potential roadblocks. Then, when you discuss project expectations and timelines with your stakeholders, give yourself some extra time for problem-solving at each stage of the process.
+Know your project. Keep track of your discussions about the project over email or reports, and be ready to answer questions about how certain aspects are important for your organization. Get to know how your project connects to the rest of the company and get involved in providing the most insight possible. If you have a good understanding about why you are doing an analysis, it can help you connect your work with other goals and be more effective at solving larger problems.
+Start with words and visuals. It is common for data analysts and stakeholders to interpret things in different ways while assuming the other is on the same page. This illusion of agreement* has been historically identified as a cause of projects going back-and-forth a number of times before a direction is finally nailed down. To help avoid this, start with a description and a quick visual of what you are trying to convey. Stakeholders have many points of view and may prefer to absorb information in words or pictures. Work with them to make changes and improvements from there. The faster everyone agrees, the faster you can perform the first analysis to test the usefulness of the project, measure the feedback, learn from the data, and implement changes.
+Communicate often. Your stakeholders will want regular updates on your projects. Share notes about project milestones, setbacks, and changes. Then use your notes to create a shareable report. Another great resource to use is a change-log, which you will learn more throughout the program. For now, just know that a change-log is a file containing a chronologically ordered list of modifications made to a project. Depending on the way you set it up, stakeholders can even pop in and view updates whenever they want.
+
+Be sure to answer these four important questions related to your audience:
+
+Who is your audience?
+
+What do they already know?
+
+What do they need to know?
+
+How can you best communicate what they need to know?
+
+Data is powerful, but it has its limitations
+
+Week 4 Glossary Terms:
+
+Action-oriented question: A question whose answers lead to change
+Algorithm: A process or set of rules followed for a specific task
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+Attribute: A characteristic or quality of data used to label a column in a table
+AVERAGE: A spreadsheet function that returns an average of the values from a selected range
+Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
+Borders: Lines that can be added around two or more cells on a spreadsheet
+Business task: The question or problem that data analysis resolves for a business
+Cell reference: A cell or a range of cells in a worksheet typically used in formulas and functions
+Cloud: A place to keep data online, rather than a computer hard drive
+Context: The condition in which something exists or happens
+COUNT: A spreadsheet function that counts the number of cells in a range that meet a specific criteria
+Dashboard: A tool that monitors live, incoming data
+Data: A collection of facts
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+Data analytics: The science of data
+Data design: How information is organized
+Data-driven decision-making: Using facts to guide business strategy
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+Data-inspired decision-making: Exploring different data sources to find out what they have in common
+Data life cycle: The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown
+Data strategy: The management of the people, processes, and tools used in data analysis
+Data visualization: The graphical representation of data
+Database: A collection of data stored in a computer system
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Equation: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
+Fairness: A quality of data analysis that does not create or reinforce bias
+Fill handle: A box in the lower-right-hand corner of a selected spreadsheet cell that can be dragged through neighboring cells in order to continue an instruction
+Filtering: The process of showing only the data that meets a specified criteria while hiding the rest
+Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+Header: The first row in a spreadsheet that labels the type of data in each column
+Leading question: A question that steers people toward a certain response
+Math expression: A calculation that involves addition, subtraction, multiplication, or division (also called an equation)
+Math function: A function that is used as part of a mathematical formula
+MAX: A spreadsheet function that returns the largest numeric value from a range of cells
+Measurable question: A question whose answers can be quantified and assessed
+Metric: A single, quantifiable type of data that is used for measurement
+Metric goal: A measurable goal set by a company and evaluated using metrics
+MIN: A spreadsheet function that returns the smallest numeric value from a range of cells
+Observation: The attributes that describe a piece of data contained in a row of a table
+Open data: Data that is available to the public
+Operator: A symbol that names the operation or calculation to be performed
+Order of operations: Using parentheses to group together spreadsheet values in order to clarify the order in which operations should be performed
+Pivot chart: A chart created from the fields in a pivot table
+Pivot table: A data summarization tool used to sort, reorganize, group, count, total, or average data
+Problem domain: The area of analysis that encompasses every activity affecting or affected by a problem
+Problem types: The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+Qualitative data: A subjective and explanatory measure of a quality or characteristic
+Quantitative data: A specific and objective measure, such as a number, quantity, or range
+Query: A request for data or information from a database
+Query language: A computer programming language used to communicate with a database
+Range: A collection of two or more cells in a spreadsheet
+Reframing: Restating a problem or challenge, then redirecting it toward a potential resolution
+Relevant question: A question that has significance to the problem to be solved
+Report: A static collection of data periodically given to stakeholders
+Return on investment (ROI): A formula that uses the metrics of investment and profit to evaluate the success of an investment
+Revenue: The total amount of income generated by the sale of goods or services
+Root cause: The reason why a problem occurs
+Scope of work (SOW): An agreed-upon outline of the tasks to be performed during a project
+Small data: Small, specific data points typically involving a short period of time, which are useful for making day-to-day decisions
+SMART methodology: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+Sorting: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
+Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+Spreadsheet: A digital worksheet
+SQL: Refer to Structured Query Language
+Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Structured Query Language: A computer programming language used to communicate with a database
+Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+SUM: A spreadsheet function that adds the values of a selected range of cells
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+Time-bound question: A question that specifies a timeframe to be studied
+Turnover rate: The rate at which employees voluntarily leave a company
+Unfair question: A question that makes assumptions or is difficult to answer honestly
+Visualization: (Refer to data visualization)
+
